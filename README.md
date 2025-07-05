@@ -61,15 +61,15 @@
 ### 📈 Mis estadísticas en GitHub
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de Julio Cesar en GitHub" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas deGitHub" />
 </p>
 
 ---
 
-### 💻 Lenguajes que uso
+### 💻 Lenguajes
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Victor00128&layout=compact&locale=es&theme=tokyonight" alt="Lenguajes más usados por Julio Cesar" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Victor00128&layout=compact&locale=es&theme=tokyonight" alt="Lenguajes más uso" />
 </p>
 
 ---
