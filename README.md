@@ -45,7 +45,7 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https-git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
@@ -58,10 +58,17 @@
 
 ---
 
-### 📈 Mis Estadísticas en GitHub
+### 📈 Mis estadísticas en GitHub
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de Julio Cesar" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de Julio Cesar en GitHub" />
+</p>
+
+---
+
+### 💻 Lenguajes que uso
+
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Victor00128&layout=compact&locale=es&theme=tokyonight" alt="Lenguajes más usados por Julio Cesar" />
 </p>
 
