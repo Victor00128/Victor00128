@@ -1,9 +1,9 @@
-<h1 align="center">¡Hola! Soy Julio César  👋</h1>
+<h1 align="center">Hola Soy Julio Cesar  👋</h1>
 <h3 align="center">Un apasionado desarrollador web de Uruguay </h3>
 
 <br>
 
-- 🔭 Actualmente estoy trabajando en mi proyecto [**NeonCalc**](https://github.com/Victor00128/CalculadoraBasica), una calculadora moderna con React y TypeScript.
+- 🔭 Actualmente estoy trabajando en mi proyecto [**Nexus IA**](https://github.com/Victor00128/CalculadoraBasica), una calculadora moderna con React y TypeScript.
 
 - 🌱 Estoy aprendiendo y profundizando mis conocimientos en **Python y desarrollo Backend**.
 
