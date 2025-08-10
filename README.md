@@ -1,6 +1,6 @@
 # Hola, soy Julio Cesar Morales 👋
 
-<a href="www.linkedin.com/in/julio-cesar-406314373" target="_blank">
+<a href="https://www.linkedin.com/in/julio-cesar-406314373/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -39,7 +39,12 @@ Apasionado Desarrollador Full Stack de Uruguay, enfocado en crear experiencias w
       <h3 align="center">Chatbot Vortex</h3>
       <div align="center">
         <a href="https://github.com/Victor00128/Chatbot-Vortex" target="_blank">
-          <!-- Aquí puedes poner una captura de pantalla o un GIF de tu proyecto -->
+          <!-- 
+            ACCIÓN REQUERIDA: 
+            1. Haz una captura de pantalla de tu proyecto.
+            2. Súbela a tu repositorio `Chatbot-Vortex`.
+            3. Copia la URL de la imagen y pégala aquí abajo.
+          -->
           <img src="URL_DE_TU_IMAGEN_O_GIF" alt="Chatbot Vortex">
         </a>
         <p>
@@ -47,6 +52,11 @@ Apasionado Desarrollador Full Stack de Uruguay, enfocado en crear experiencias w
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="URL_DE_LA_DEMO_EN_VIVO" target="_blank">
+            <!-- 
+              ACCIÓN REQUERIDA: 
+              1. Despliega tu proyecto en Vercel o Netlify.
+              2. Pega la URL de la demo en vivo aquí.
+            -->
             <img src="https://img.shields.io/badge/DEMO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white">
           </a>
         </p>
