@@ -1,6 +1,6 @@
 # Hola, soy Julio Cesar Morales 👋
 
-<a href="https://www.linkedin.com/in/tu-usuario-de-linkedin/" target="_blank">
+<a href="www.linkedin.com/in/julio-cesar-406314373" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
