@@ -39,19 +39,14 @@ Apasionado Desarrollador Full Stack de Uruguay, enfocado en crear experiencias w
       <h3 align="center">Chatbot Vortex</h3>
       <div align="center">
         <a href="https://github.com/Victor00128/Chatbot-Vortex" target="_blank">
-          <!-- La URL de tu imagen ya está aquí -->
           <img src="https://github.com/Victor00128/Chatbot-Vortex/blob/main/Screenshot%202025-08-10%20at%2014-20-10%20Chatbot-Vortex.png?raw=true" alt="Chatbot Vortex">
         </a>
         <p>
           <a href="https://github.com/Victor00128/Chatbot-Vortex" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="URL_DE_LA_DEMO_EN_VIVO" target="_blank">
-            <!-- 
-              ACCIÓN REQUERIDA: 
-              Este es el último paso. Sigue la guía para desplegar en Vercel y pega la URL aquí.
-            -->
-            <img src="https://img.shields.io/badge/DEMO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white">
+          <a href="https://vortex-ia.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/badge/DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
           </a>
         </p>
         <p>
