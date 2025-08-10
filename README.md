@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre Mí
 
-Apasionado Desarrollador Full Stack de Uruguay, enfocado en crear experiencias web modernas, interactivas e inteligentes. Mi principal interés es la integración de **Inteligencia Artificial** para construir aplicaciones que no solo se vean bien, sino que también sean funcionales y resuelvan problemas reales.
+Soy Desarrollador Full Stack de Uruguay, enfocado en crear experiencias web modernas, interactivas e inteligentes. Mi principal interés es la integración de **Inteligencia Artificial** para construir aplicaciones que no solo se vean bien, sino que también sean funcionales y resuelvan problemas reales.
 
 - 🔭 Actualmente estoy buscando oportunidades freelance para aplicar y expandir mis conocimientos.
 - 🌱 Me especializo en el ecosistema de **JavaScript**, principalmente con **React**, **Next.js**, y **TypeScript**.
