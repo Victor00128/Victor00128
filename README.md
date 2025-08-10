@@ -1,83 +1,67 @@
-<div align="center">
-  <h1 align="center">Hola, soy Julio Cesar Morales 👋</h1>
-  <h3 align="center">Un apasionado Desarrollador Full Stack de Uruguay, enfocado en crear experiencias web modernas y funcionales.</h3>
-</div>
+# Hola, soy Julio Cesar Morales 👋
 
-<br>
-
----
-
-### Sobre Mí
-
-- 🔭 Actualmente estoy enfocado en mi proyecto principal, **[Nexus AI](https://github.com/Victor00128/Nexus-AI-Chat-Interface)**, una aplicación de chat inteligente construida desde cero con React, Next.js y la API de Gemini.
-
-- 🌱 Estoy fortaleciendo mis habilidades en el **desarrollo Backend con Python (FastAPI) y Node.js**, con el objetivo de convertirme en un desarrollador Full Stack más completo.
-
-- 🎯 Busco activamente mi primera oportunidad profesional como **Desarrollador Junior** para aplicar mis conocimientos, contribuir a un equipo y seguir creciendo en el mundo de la tecnología.
-
-- 💬 Me encantaría conversar sobre **JavaScript, TypeScript, React, Node.js** y el desarrollo de interfaces de usuario.
-
-- 📫 Puedes contactarme a través de mi email: **[juliocesarmoralesalvarado9@gmail.com](mailto:juliocesarmoralesalvarado9@gmail.com)**
+<a href="https://www.linkedin.com/in/tu-usuario-de-linkedin/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 ---
 
-### 🚀 Tecnologías y Herramientas
+### 👨‍💻 Sobre Mí
 
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  </a>
-   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-  </a>
-    <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  </a>
-  <a href="https-git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
-  </a>
-</p>
+Apasionado Desarrollador Full Stack de Uruguay, enfocado en crear experiencias web modernas, interactivas e inteligentes. Mi principal interés es la integración de **Inteligencia Artificial** para construir aplicaciones que no solo se vean bien, sino que también sean funcionales y resuelvan problemas reales.
+
+- 🔭 Actualmente estoy buscando oportunidades freelance para aplicar y expandir mis conocimientos.
+- 🌱 Me especializo en el ecosistema de **JavaScript**, principalmente con **React**, **Next.js**, y **TypeScript**.
+- 🤖 Tengo experiencia práctica integrando APIs de IA como **Google Gemini** y **OpenAI**.
+- 📫 Cómo contactarme: **juliocesarmoralesalvarado9@gmail.com**
 
 ---
 
-### 📈 Mis estadísticas en GitHub
+### 🛠️ Tecnologías y Herramientas
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas deGitHub" />
-</p>
-
----
-
-### 💻 Lenguajes
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Victor00128&layout=compact&locale=es&theme=tokyonight" alt="Lenguajes más uso" />
-</p>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🌐 Conecta Conmigo
+### 🚀 Mis Proyectos Destacados
 
-<p align="center">
-  <a href="https://linkedin.com/in/[tu-usuario-de-linkedin]" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Tu-Usuario-LinkedIn]" height="30" width="40" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Chatbot Vortex</h3>
+      <div align="center">
+        <a href="https://github.com/Victor00128/Chatbot-Vortex" target="_blank">
+          <!-- Aquí puedes poner una captura de pantalla o un GIF de tu proyecto -->
+          <img src="URL_DE_TU_IMAGEN_O_GIF" alt="Chatbot Vortex">
+        </a>
+        <p>
+          <a href="https://github.com/Victor00128/Chatbot-Vortex" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="URL_DE_LA_DEMO_EN_VIVO" target="_blank">
+            <img src="https://img.shields.io/badge/DEMO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white">
+          </a>
+        </p>
+        <p>
+          Un chatbot de IA multimodal que integra los modelos Gemini y GPT. Permite chatear, analizar documentos PDF e imágenes en tiempo real.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+![Estadísticas de GitHub de Julio](https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor00128&layout=compact&langs_count=8&theme=dracula)
