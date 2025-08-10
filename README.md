@@ -39,13 +39,8 @@ Apasionado Desarrollador Full Stack de Uruguay, enfocado en crear experiencias w
       <h3 align="center">Chatbot Vortex</h3>
       <div align="center">
         <a href="https://github.com/Victor00128/Chatbot-Vortex" target="_blank">
-          <!-- 
-            ACCIÓN REQUERIDA: 
-            1. Haz una captura de pantalla de tu proyecto.
-            2. Súbela a tu repositorio `Chatbot-Vortex`.
-            3. Copia la URL de la imagen y pégala aquí abajo.
-          -->
-          <img src="URL_DE_TU_IMAGEN_O_GIF" alt="Chatbot Vortex">
+          <!-- La URL de tu imagen ya está aquí -->
+          <img src="https://github.com/Victor00128/Chatbot-Vortex/blob/main/Screenshot%202025-08-10%20at%2014-20-10%20Chatbot-Vortex.png?raw=true" alt="Chatbot Vortex">
         </a>
         <p>
           <a href="https://github.com/Victor00128/Chatbot-Vortex" target="_blank">
@@ -54,8 +49,7 @@ Apasionado Desarrollador Full Stack de Uruguay, enfocado en crear experiencias w
           <a href="URL_DE_LA_DEMO_EN_VIVO" target="_blank">
             <!-- 
               ACCIÓN REQUERIDA: 
-              1. Despliega tu proyecto en Vercel o Netlify.
-              2. Pega la URL de la demo en vivo aquí.
+              Este es el último paso. Sigue la guía para desplegar en Vercel y pega la URL aquí.
             -->
             <img src="https://img.shields.io/badge/DEMO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white">
           </a>
