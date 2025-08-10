@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre Mí
 
-Soy Desarrollador Full Stack de Uruguay, enfocado en crear experiencias web modernas, interactivas e inteligentes. Mi principal interés es la integración de **Inteligencia Artificial** para construir aplicaciones que no solo se vean bien, sino que también sean funcionales y resuelvan problemas reales.
+Apasionado Desarrollador Full Stack de Uruguay, enfocado en crear experiencias web modernas, interactivas e inteligentes. Mi principal interés es la integración de **Inteligencia Artificial** para construir aplicaciones que no solo se vean bien, sino que también sean funcionales y resuelvan problemas reales.
 
 - 🔭 Actualmente estoy buscando oportunidades freelance para aplicar y expandir mis conocimientos.
 - 🌱 Me especializo en el ecosistema de **JavaScript**, principalmente con **React**, **Next.js**, y **TypeScript**.
@@ -39,7 +39,8 @@ Soy Desarrollador Full Stack de Uruguay, enfocado en crear experiencias web mode
       <h3 align="center">Chatbot Vortex</h3>
       <div align="center">
         <a href="https://github.com/Victor00128/Chatbot-Vortex" target="_blank">
-          <img src="https://github.com/Victor00128/Chatbot-Vortex/blob/main/Screenshot%202025-08-10%20at%2014-20-10%20Chatbot-Vortex.png?raw=true" alt="Chatbot Vortex">
+          <!-- URL de la imagen actualizada -->
+          <img src="https://github.com/Victor00128/Chatbot-Vortex/blob/main/Imagen/%20Chatbot-Vortex.png?raw=true" alt="Chatbot Vortex">
         </a>
         <p>
           <a href="https://github.com/Victor00128/Chatbot-Vortex" target="_blank">
