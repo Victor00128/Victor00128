@@ -1,60 +1,58 @@
-# Hola soy Victor 👋
+<!--========================== README ANIMADO (HTML + JS) ===========================-->
+<div style="text-align:center;font-family:'Fira Code',monospace;color:#00c9ff">
+  <h1 id="titleText"></h1>
+  <p style="margin-top:-10px;font-size:18px;">Full Stack Developer & AI Enthusiast</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/julio-cesar-406314373/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://github.com/Victor00128/Chatbot-Vortex/blob/main/Imagen/Chatbot-Vortex.png?raw=true" width="70%" style="border-radius:20px; box-shadow:0 0 25px #00c9ff55"/>
+
+  <h2 style="margin-top:30px">Impacto</h2>
+  <p><span id="projectsCount">0</span> Proyectos desarrollados</p>
+  <p><span id="interCount">0</span> Interacciones registradas (Vortex)</p>
+  <p><span id="clientsCount">0</span> Colaboraciones completadas</p>
+
+  <br />
+
+  <a href="https://github.com/Victor00128/Chatbot-Vortex" style="padding:10px 18px;border-radius:12px;border:2px solid #00c9ff;text-decoration:none;transition:0.3s">
+    Ver Código
   </a>
-</p>
+  <a href="https://vortex-ia.netlify.app/" style="padding:10px 18px;border-radius:12px;border:2px solid #00c9ff;margin-left:8px;text-decoration:none;transition:.3s">
+    Probar Demo
+  </a>
+</div>
 
----
+<script>
+// typing effect
+const text = "Victor";
+let i = 0;
+function typing(){
+  if(i < text.length){
+    document.getElementById("titleText").innerHTML += text.charAt(i);
+    i++;
+    setTimeout(typing, 140);
+  }
+}
+typing();
 
-### 👨‍💻 Sobre Mí
-
-Soy un Desarrollador Full Stack de Uruguay, apasionado por la intersección entre un gran diseño de interfaces y la **Inteligencia Artificial**. Mi objetivo es construir aplicaciones que no solo sean intuitivas y modernas, sino que también resuelvan problemas complejos de forma inteligente.
-
-Mi especialidad es el ecosistema de **JavaScript** (React, Next.js, TypeScript), y tengo experiencia práctica integrando los modelos de IA más avanzados como **Google Gemini** y **OpenAI** para crear soluciones innovadoras.
-
-- 🔭 Actualmente estoy abierto a **oportunidades freelance** donde pueda aportar valor y seguir creciendo profesionalmente.
-- 📫 Si quieres colaborar o charlar, no dudes en contactarme: **juliocesarmoralesalvarado9@gmail.com**
-
----
-
-### 🛠️ Mi Stack de Tecnologías
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
----
-
-### 🚀 Mi Proyecto Destacado 🚀
-
-<table width="100%">
-  <tr>
-    <td align="center">
-      <a href="https://vortex-ia.netlify.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/Victor00128/Chatbot-Vortex/blob/main/Imagen/Chatbot-Vortex.png?raw=true" alt="Banner de Vortex Chat" width="700">
-      </a>
-      <h3 align="center">Chatbot Vortex</h3>
-      <p align="center">
-        Un chatbot de IA multimodal que integra los modelos Gemini y GPT. Permite chatear, analizar documentos PDF e imágenes en tiempo real, y aprende de conversaciones pasadas gracias a su integración con Supabase.
-        <br />
-        <br />
-        <a href="https://github.com/Victor00128/Chatbot-Vortex" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Ver el Código-100000?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-        <a href="https://vortex-ia.netlify.app/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Probar la Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+// counters
+function animateValue(id, end, duration){
+  let start = 0;
+  let range = end - start;
+  let current = start;
+  let increment = end > start? 1 : -1;
+  let stepTime = Math.abs(Math.floor(duration / range));
+  let obj = document.getElementById(id);
+  let timer = setInterval(function(){
+    current += increment;
+    obj.innerHTML = current;
+    if (current == end){
+      clearInterval(timer);
+    }
+  }, stepTime);
+}
+setTimeout(()=> {
+   animateValue("projectsCount", 15, 1200);
+   animateValue("interCount", 1500, 1800);
+   animateValue("clientsCount", 10, 1000);
+}, 1000);
+</script>
+<!--==================================================================================-->
