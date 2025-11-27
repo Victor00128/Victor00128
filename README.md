@@ -27,6 +27,7 @@ Me encanta transformar ideas en productos inteligentes que aporten valor.
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=00C9FF" />
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=00C9FF" />
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=00C9FF" />
+  <img src="https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=00C9FF" />
 </p>
 
 ---
@@ -53,7 +54,7 @@ Me encanta transformar ideas en productos inteligentes que aporten valor.
 
 ### 🎯 Metas y Estado Actual
 
-- 🚀 **Proyecto Principal:** Dedicado al 100% en el desarrollo y mejora de **[Chatbot Vortex](https://github.com/Victor00128/Chatbot-Vortex)**.
+- 🚀 **Proyecto Principal:** Dedicado al 100% en el desarrollo y mejora de **[Chatbot Vortex](https://github.com/Victor00128/Chatbot-Vortex )**.
 - 👥 **Buscando Feedback:** ¡El chatbot ya está online! Estoy en la búsqueda de los primeros usuarios que quieran probarlo y darme su opinión para hacerlo aún mejor.
 - 💼 **Abierto a Colaborar:** Buscando activamente oportunidades freelance y proyectos interesantes donde pueda aplicar mi pasión por la IA y el desarrollo web.
 
