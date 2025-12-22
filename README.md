@@ -3,10 +3,10 @@
 </h1>
 
 <div align="center">
-  <!-- ESTADÍSTICAS GENERALES (Título corregido) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&theme=transparent&hide_rank=true&title_color=00C9FF&text_color=FFF&icon_color=00C9FF&custom_title=Estadísticas%20de%20Julio" height="150" alt="stats graph" />
+  <!-- ESTADÍSTICAS (Título cambiado a "Mis Estadísticas") -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&theme=transparent&hide_rank=true&title_color=00C9FF&text_color=FFF&icon_color=00C9FF&custom_title=Mis%20Estadísticas" height="150" alt="stats graph" />
   
-  <!-- LENGUAJES MÁS USADOS (Añadido para dar más info visual) -->
+  <!-- LENGUAJES MÁS USADOS -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor00128&layout=compact&theme=transparent&title_color=00C9FF&text_color=FFF&hide_border=true" height="150" alt="languages graph" />
 </div>
 
