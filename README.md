@@ -17,15 +17,13 @@ Soy un **Desarrollador Full Stack** apasionado por crear experiencias modernas, 
 
 Me encanta transformar ideas en productos inteligentes que aporten valor real. 🚀
 
-```javascript
-const julio = {
-  rol:        "Full Stack Developer",
-  pasion:     ["AI", "React", "Clean UI/UX"],
-  construye:  "Chatbots · Plataformas Web · Apps con IA",
-  disponible: true // open to work & collaborations 💼
-};
-```
-
+> 🔭 **Rol:** Full Stack Developer
+>
+> ⚡ **Pasión:** AI, React, Clean UI/UX
+>
+> 🛠 **Construye:** Chatbots · Plataformas Web · Apps con IA
+>
+> 💼 **Disponible:** Open to work & collaborations
 ---
 
 ### 🛠️ Tech Stack
