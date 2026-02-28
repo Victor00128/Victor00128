@@ -1,14 +1,12 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=Hola,%20soy%20Julio%20Cesar;Full%20Stack%20Developer;AI%20Enthusiast&v=2" alt="Typing SVG" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=Hola,+soy+Julio+Cesar;Full+Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
+</h1>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&theme=transparent&hide_rank=true&title_color=00C9FF&text_color=FFF&icon_color=00C9FF&custom_title=Estadisticas&v=2" height="150" alt="Mis Estadisticas" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&theme=transparent&hide_rank=true&title_color=00C9FF&text_color=ffffff&icon_color=00C9FF&custom_title=Estadisticas" height="150" alt="Mis Estadisticas" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor00128&layout=compact&theme=transparent&title_color=00C9FF&text_color=FFF&hide_border=true&v=2" height="150" alt="Lenguajes Mas Usados" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor00128&layout=compact&theme=transparent&title_color=00C9FF&text_color=ffffff&hide_border=true" height="150" alt="Lenguajes Mas Usados" />
+</p>
 
 ---
 
@@ -22,24 +20,22 @@ Me encanta transformar ideas en productos inteligentes que aporten valor real.
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+  <strong>Frontend</strong><br>
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=00C9FF" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=00C9FF" />
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=00C9FF" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=00C9FF" />
+  <img src="https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=00C9FF" />
+</p>
 
-**Frontend**  
-<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=00C9FF" />
-<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=00C9FF" />
-<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=00C9FF" />
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=00C9FF" />
-<img src="https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=00C9FF" />
-
-<br><br>
-
-**Backend & Lenguajes**  
-<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=00C9FF" />
-<img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=00C9FF" />
-<img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=00C9FF" />
-<img src="https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=00C9FF" />
-
-</div>
+<p align="center">
+  <strong>Backend & Lenguajes</strong><br>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=00C9FF" />
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=00C9FF" />
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=00C9FF" />
+  <img src="https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=00C9FF" />
+</p>
 
 ---
 
@@ -78,14 +74,14 @@ Me encanta transformar ideas en productos inteligentes que aporten valor real.
 
 ### 📫 Conectemos
 
-<div align="center">
+<p align="center">
   <a href="mailto:juliocesarmoralesalvarado9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/julio-cesar-406314373/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</p>
 
 <br>
 <p align="center">
