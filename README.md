@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=Hola,+soy+Julio+Cesar;Full+Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&theme=transparent&hide_rank=true&title_color=00C9FF&text_color=ffffff&icon_color=00C9FF&custom_title=Estadisticas" height="150" alt="Mis Estadisticas" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor00128&layout=compact&theme=transparent&title_color=00C9FF&text_color=ffffff&hide_border=true" height="150" alt="Lenguajes Mas Usados" />
-</p>
+</div>
 
 ---
 
