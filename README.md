@@ -170,6 +170,8 @@ const julioCesar = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Victor00128&theme=nord_dark&utcOffset=-6" height="160" alt="Tiempo Productivo"/>
 </div>
 
+<br><br>
+
 ---
 
 ### 🎯 Estado Actual
@@ -193,6 +195,8 @@ const julioCesar = {
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Quote"/>
 </div>
+
+<br><br>
 
 ---
 
