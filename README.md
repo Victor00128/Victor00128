@@ -116,8 +116,6 @@ const julio = {
   <img src="https://raw.githubusercontent.com/Victor00128/Victor00128/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
-> ⚠️ **Nota:** La animación de la serpiente requiere configurar un GitHub Action en tu repositorio de perfil. Ver instrucciones abajo.
-
 ---
 
 ### 📫 Conectemos
