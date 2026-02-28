@@ -19,10 +19,10 @@
 ```js
 const julioCesar = {
     rol: "Full Stack Developer",
-    ubicación: "🌎 Latinoamérica",
-    pasión: ["Inteligencia Artificial", "Desarrollo Web", "UI/UX"],
+    ubicacion: "Latinoamerica",
+    pasion: ["Inteligencia Artificial", "Desarrollo Web", "UI/UX"],
     aprendiendo: ["Machine Learning", "LangChain", "Cloud Computing"],
-    dato_curioso: "Transformo café ☕ en código 💻",
+    dato_curioso: "Transformo cafe en codigo",
     disponible: true
 };
 ```
@@ -31,19 +31,11 @@ const julioCesar = {
 
 ---
 
-### 🏆 Trofeos de GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Victor00128&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trofeos" />
-</p>
-
----
-
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&theme=transparent&hide_rank=false&title_color=00C9FF&text_color=ffffff&icon_color=00C9FF&border_color=00C9FF&ring_color=00C9FF&custom_title=📈+Mis+Estadísticas&include_all_commits=true&count_private=true" height="180" alt="Mis Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor00128&layout=compact&theme=transparent&title_color=00C9FF&text_color=ffffff&border_color=00C9FF&langs_count=8&custom_title=🔥+Lenguajes+Más+Usados" height="180" alt="Lenguajes" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&theme=github_dark&title_color=00C9FF&text_color=ffffff&icon_color=00C9FF&border_color=00C9FF&ring_color=00C9FF&custom_title=Mis+Estadisticas&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="Mis Estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor00128&layout=compact&theme=github_dark&title_color=00C9FF&text_color=ffffff&border_color=00C9FF&langs_count=8&custom_title=Lenguajes+Mas+Usados&cache_seconds=1800" height="180" alt="Lenguajes" />
 </div>
 
 <br>
@@ -55,15 +47,7 @@ const julioCesar = {
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor00128&bg_color=00000000&color=00C9FF&line=00C9FF&point=ffffff&area=true&area_color=00C9FF&hide_border=true&custom_title=📅+Gráfico+de+Contribuciones" width="95%" alt="Activity Graph"/>
-</div>
-
----
-
-### 🐍 Contribuciones
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor00128&bg_color=00000000&color=00C9FF&line=00C9FF&point=ffffff&area=true&area_color=00C9FF&hide_border=false&border_color=00C9FF&custom_title=🐍+Mis+Contribuciones" width="95%" alt="Contribuciones"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor00128&bg_color=00000000&color=00C9FF&line=00C9FF&point=ffffff&area=true&area_color=00C9FF&hide_border=false&border_color=00C9FF&custom_title=Grafico+de+Contribuciones" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -146,7 +130,7 @@ const julioCesar = {
 
   <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=🤖+Chatbot+Vortex" alt="Vortex Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=Chatbot+Vortex" alt="Vortex Title" />
 
   <p>
     Un chatbot multimodal que combina <strong>Gemini y GPT</strong><br>
@@ -155,14 +139,14 @@ const julioCesar = {
 
   <br>
 
-  <img src="https://img.shields.io/badge/✨_Multimodal-PDF+Imágenes+Texto-000?style=for-the-badge&labelColor=00C9FF&color=000"/>
-  <img src="https://img.shields.io/badge/🧠_IA-Gemini+GPT-000?style=for-the-badge&labelColor=00C9FF&color=000"/>
-  <img src="https://img.shields.io/badge/⚡_Real_Time-Respuestas_Instantáneas-000?style=for-the-badge&labelColor=00C9FF&color=000"/>
+  <img src="https://img.shields.io/badge/Multimodal-PDF%20%7C%20Imagenes%20%7C%20Texto-000?style=for-the-badge&labelColor=00C9FF&color=000"/>
+  <img src="https://img.shields.io/badge/IA-Gemini%20%2B%20GPT-000?style=for-the-badge&labelColor=00C9FF&color=000"/>
+  <img src="https://img.shields.io/badge/Real_Time-Respuestas_Instantaneas-000?style=for-the-badge&labelColor=00C9FF&color=000"/>
 
   <br><br>
 
   <a href="https://github.com/Victor00128/Chatbot-Vortex">
-    <img src="https://img.shields.io/badge/GITHUB-Ver%20Código-000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-Ver%20Codigo-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://vortex-ia.netlify.app/">
     <img src="https://img.shields.io/badge/WEBSITE-Probar%20Demo-00C9FF?style=for-the-badge&logo=netlify&logoColor=black"/>
@@ -231,5 +215,5 @@ const julioCesar = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00C9FF&height=120&section=footer" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Gracias+por+visitar+mi+perfil+🙌;¡Colaboremos+juntos!+🚀" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Gracias+por+visitar+mi+perfil+%F0%9F%99%8C;Colaboremos+juntos!+%F0%9F%9A%80" alt="Footer" />
 </p>
