@@ -49,7 +49,7 @@ const julioCesar = {
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victor00128&theme=transparent&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=888888&border=00C9FF" height="180" alt="Racha" />
+  <img src="https://streak-stats.demolab.com/?user=Victor00128&theme=transparent&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=888888&border=00C9FF" height="180" alt="Racha" />
 </div>
 
 <br>
@@ -63,11 +63,7 @@ const julioCesar = {
 ### 🐍 Contribuciones
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victor00128/Victor00128/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor00128/Victor00128/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Victor00128/Victor00128/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor00128&bg_color=00000000&color=00C9FF&line=00C9FF&point=ffffff&area=true&area_color=00C9FF&hide_border=false&border_color=00C9FF&custom_title=🐍+Mis+Contribuciones" width="95%" alt="Contribuciones"/>
 </div>
 
 ---
@@ -181,13 +177,13 @@ const julioCesar = {
 ### 📈 Métricas Detalladas
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victor00128&theme=transparent" width="90%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victor00128&theme=nord_dark" width="90%" alt="Profile Details"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victor00128&theme=transparent" height="160" alt="Repos por Lenguaje"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Victor00128&theme=transparent" height="160" alt="Commits por Lenguaje"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Victor00128&theme=transparent&utcOffset=-6" height="160" alt="Tiempo Productivo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victor00128&theme=nord_dark" height="160" alt="Repos por Lenguaje"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Victor00128&theme=nord_dark" height="160" alt="Commits por Lenguaje"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Victor00128&theme=nord_dark&utcOffset=-6" height="160" alt="Tiempo Productivo"/>
 </div>
 
 ---
