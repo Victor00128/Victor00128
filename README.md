@@ -1,13 +1,13 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=Hola,+soy+Julio+Cesar;Full+Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=Hola,%20soy%20Julio%20Cesar;Full%20Stack%20Developer;AI%20Enthusiast&v=2" alt="Typing SVG" />
+</div>
+
+<br>
 
 <div align="center">
-  <!-- ESTADÍSTICAS (Tilde removida del enlace para evitar que se rompa) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&theme=transparent&hide_rank=true&title_color=00C9FF&text_color=FFF&icon_color=00C9FF&custom_title=Mis%20Estadisticas" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&theme=transparent&hide_rank=true&title_color=00C9FF&text_color=FFF&icon_color=00C9FF&custom_title=Estadisticas&v=2" height="150" alt="Mis Estadisticas" />
   
-  <!-- LENGUAJES MÁS USADOS -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor00128&layout=compact&theme=transparent&title_color=00C9FF&text_color=FFF&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor00128&layout=compact&theme=transparent&title_color=00C9FF&text_color=FFF&hide_border=true&v=2" height="150" alt="Lenguajes Mas Usados" />
 </div>
 
 ---
@@ -30,6 +30,8 @@ Me encanta transformar ideas en productos inteligentes que aporten valor real.
 <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=00C9FF" />
 <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=00C9FF" />
 <img src="https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=00C9FF" />
+
+<br><br>
 
 **Backend & Lenguajes**  
 <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=00C9FF" />
