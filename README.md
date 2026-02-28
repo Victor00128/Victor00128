@@ -59,16 +59,13 @@ Me encanta transformar ideas en productos inteligentes que aporten valor real. �
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&theme=transparent&hide_rank=true&title_color=00C9FF&text_color=FFF&icon_color=00C9FF&custom_title=Mis%20Estadisticas&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor00128&layout=compact&theme=transparent&title_color=00C9FF&text_color=FFF&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Victor00128&theme=transparent&hide_border=true&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&sideLabels=FFF&dates=AAA" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Victor00128&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&theme=transparent&hide_border=true&title_color=00C9FF&text_color=FFF&icon_color=00C9FF" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victor00128&theme=transparent&hide_border=true&stroke=00C9FF&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&sideLabels=FFF&dates=FFF&background=00000000" height="150" alt="streak graph" />
+  
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor00128&layout=compact&theme=transparent&hide_border=true&title_color=00C9FF&text_color=FFF" height="150" alt="languages graph" />
 </div>
 
 ---
