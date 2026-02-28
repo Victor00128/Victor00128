@@ -160,9 +160,6 @@ const julioCesar = {
 
 ### 📈 Métricas Detalladas
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victor00128&theme=nord_dark" width="90%" alt="Profile Details"/>
-</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victor00128&theme=nord_dark" height="160" alt="Repos por Lenguaje"/>
