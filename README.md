@@ -16,16 +16,18 @@
 
 ### 👨‍💻 Sobre Mí
 
-```js
-const julioCesar = {
-    rol: "Full Stack Developer",
-    ubicacion: "Latinoamerica",
-    pasion: ["Inteligencia Artificial", "Desarrollo Web", "UI/UX"],
-    aprendiendo: ["Machine Learning", "LangChain", "Cloud Computing"],
-    dato_curioso: "Transformo cafe en codigo",
-    disponible: true
-};
-```
+<div align="center">
+
+| | |
+|:---:|:---|
+| 💼 | **Rol:** Full Stack Developer |
+| 🌎 | **Ubicación:** Latinoamérica |
+| ❤️ | **Pasión:** Inteligencia Artificial, Desarrollo Web, UI/UX |
+| 📚 | **Aprendiendo:** Machine Learning, LangChain, Cloud Computing |
+| ☕ | **Dato curioso:** Transformo café en código |
+| ✅ | **Disponible:** para proyectos freelance y colaboraciones |
+
+</div>
 
 > 💡 *"Me encanta transformar ideas en productos inteligentes que aporten valor real."*
 
