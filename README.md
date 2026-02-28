@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&theme=transparent&hide_rank=true&title_color=00C9FF&text_color=ffffff&icon_color=00C9FF&custom_title=Estadisticas" height="150" alt="Mis Estadisticas" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor00128&layout=compact&theme=transparent&title_color=00C9FF&text_color=ffffff&hide_border=true" height="150" alt="Lenguajes Mas Usados" />
 </p>
 
@@ -41,17 +40,13 @@ Me encanta transformar ideas en productos inteligentes que aporten valor real.
 
 ### 🚀 Proyecto Destacado
 
-<br>
 <div align="center">
   <a href="https://vortex-ia.netlify.app/">
-    <img src="https://github.com/Victor00128/Chatbot-Vortex/blob/main/Imagen/Chatbot-Vortex.png?raw=true" width="100%" style="border-radius: 10px; border: 2px solid #00C9FF;" alt="Banner de Vortex Chat" />
+    <img src="https://github.com/Victor00128/Chatbot-Vortex/blob/main/Imagen/Chatbot-Vortex.png?raw=true" width="100%" alt="Banner de Vortex Chat" />
   </a>
-  
   <br><br>
-  
-  <h2 style="color: #00C9FF;">🤖 Chatbot Vortex</h2>
+  <h2>🤖 Chatbot Vortex</h2>
   <p>Un chatbot multimodal que combina <strong>Gemini y GPT</strong> para brindar asistencia inteligente con análisis de PDF e imágenes.</p>
-
   <a href="https://github.com/Victor00128/Chatbot-Vortex">
     <img src="https://img.shields.io/badge/GITHUB-Ver%20Código-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -59,7 +54,6 @@ Me encanta transformar ideas en productos inteligentes que aporten valor real.
     <img src="https://img.shields.io/badge/WEBSITE-Probar%20Demo-00C9FF?style=for-the-badge&logo=netlify&logoColor=black"/>
   </a>
 </div>
-<br>
 
 ---
 
@@ -83,7 +77,6 @@ Me encanta transformar ideas en productos inteligentes que aporten valor real.
   </a>
 </p>
 
-<br>
 <p align="center">
   <i>Gracias por visitar mi perfil 🙌</i>
 </p>
