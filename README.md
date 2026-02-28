@@ -3,8 +3,8 @@
 </h1>
 
 <div align="center">
-  <!-- ESTADÍSTICAS (Título cambiado a "Mis Estadísticas") -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&theme=transparent&hide_rank=true&title_color=00C9FF&text_color=FFF&icon_color=00C9FF&custom_title=Mis%20Estadísticas" height="150" alt="stats graph" />
+  <!-- ESTADÍSTICAS (Tilde removida del enlace para evitar que se rompa) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&theme=transparent&hide_rank=true&title_color=00C9FF&text_color=FFF&icon_color=00C9FF&custom_title=Mis%20Estadisticas" height="150" alt="stats graph" />
   
   <!-- LENGUAJES MÁS USADOS -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor00128&layout=compact&theme=transparent&title_color=00C9FF&text_color=FFF&hide_border=true" height="150" alt="languages graph" />
@@ -48,6 +48,8 @@ Me encanta transformar ideas en productos inteligentes que aporten valor real.
   <a href="https://vortex-ia.netlify.app/">
     <img src="https://github.com/Victor00128/Chatbot-Vortex/blob/main/Imagen/Chatbot-Vortex.png?raw=true" width="100%" style="border-radius: 10px; border: 2px solid #00C9FF;" alt="Banner de Vortex Chat" />
   </a>
+  
+  <br><br>
   
   <h2 style="color: #00C9FF;">🤖 Chatbot Vortex</h2>
   <p>Un chatbot multimodal que combina <strong>Gemini y GPT</strong> para brindar asistencia inteligente con análisis de PDF e imágenes.</p>
