@@ -2,9 +2,11 @@
 
 <div align="center">
 
-<p>
-  <strong>Construyo productos web con interfaces claras, IA aplicada y criterio de producción.</strong>
-</p>
+<img
+  width="100%"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1400&color=22D3EE&center=true&vCenter=true&repeat=true&width=980&height=60&lines=Interfaces+claras+y+IA+aplicada;Productos+web+con+criterio+de+producci%C3%B3n;Freelance+y+colaboraciones"
+  alt="Texto animado de presentación"
+/>
 
 <p>
   Desarrollo frontend orientado al producto, herramientas con IA y experiencias interactivas listas para demo, validación e iteración real.
