@@ -107,6 +107,18 @@ Desarrollador full-stack de Uruguay enfocado en productos web, integraciones con
 
 </div>
 
+## Contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victor00128/Victor00128/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor00128/Victor00128/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake de contribuciones de GitHub" src="https://raw.githubusercontent.com/Victor00128/Victor00128/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
 ## Ahora mismo
 
 - Mejorando productos con IA orientados a demo y venta
