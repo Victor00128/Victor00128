@@ -1,30 +1,30 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%7C%20TypeScript%20%7C%20IA&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20Engineer%20%7C%20React%20%7C%20TypeScript%20%7C%20Applied%20AI&descAlignY=60&descSize=18" />
 
 <div align="center">
 
 <img
   width="100%"
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1400&color=22D3EE&center=true&vCenter=true&repeat=true&width=980&height=60&lines=Interfaces+claras+y+IA+aplicada;Productos+web+con+criterio+de+producci%C3%B3n;Freelance+y+colaboraciones"
-  alt="Texto animado de presentación"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1400&color=22D3EE&center=true&vCenter=true&repeat=true&width=980&height=60&lines=Interfaces+claras+para+productos+reales;Herramientas+con+IA+listas+para+demo+y+evoluci%C3%B3n;Freelance+y+colaboraciones"
+  alt="Texto animado de presentacion"
 />
 
 <p>
-  Desarrollo frontend orientado al producto, herramientas con IA y experiencias interactivas listas para demo, validación e iteración real.
+  Construyo productos web con React, TypeScript e IA aplicada. Mi foco esta en experiencias que se puedan mostrar bien en demo, validar rapido y endurecer con criterio de produccion.
 </p>
 
-<img src="https://img.shields.io/github/followers/Victor00128?style=for-the-badge&color=0EA5E9&labelColor=0F172A&label=Followers" alt="Followers" />
-<img src="https://img.shields.io/badge/Focus-React%20%7C%20TypeScript%20%7C%20IA-22D3EE?style=for-the-badge&labelColor=0F172A&color=22D3EE" alt="Focus" />
+<img src="https://img.shields.io/badge/Role-Product%20Engineer-22D3EE?style=for-the-badge&labelColor=0F172A&color=22D3EE" alt="Role" />
+<img src="https://img.shields.io/badge/Focus-React%20%7C%20TypeScript%20%7C%20IA-0EA5E9?style=for-the-badge&labelColor=0F172A&color=0EA5E9" alt="Focus" />
 <img src="https://img.shields.io/badge/Status-Freelance%20Available-10B981?style=for-the-badge&labelColor=0F172A&color=10B981" alt="Status" />
 
 </div>
 
-## Sobre mí
+## Sobre mi
 
-Desarrollador full-stack de Uruguay enfocado en productos web, integraciones con IA y experiencias con una base técnica seria. Me interesa que el diseño se vea sólido, que la interfaz se entienda rápido y que el producto se pueda defender tanto en demo como en producción.
+Desarrollador de Uruguay enfocado en producto. Me interesa resolver problemas con interfaces claras, flujos rapidos y una base tecnica que soporte iteracion real, no solo una demo bonita.
 
 - Frontend orientado al producto
 - Integraciones de IA con foco en UX real
-- Proyectos pensados para freelance, venta y validación rápida
+- Capacidad de llevar una demo hacia una version mas seria con APIs, auth, storage y despliegue
 
 ## Stack principal
 
@@ -52,11 +52,11 @@ Desarrollador full-stack de Uruguay enfocado en productos web, integraciones con
 <h3>Chatbot Vortex</h3>
 
 <p>
-  Interfaz de chat con múltiples proveedores de IA, modo local, análisis de archivos, exportación de conversaciones y configuración BYOK.
+  Cliente multi proveedor para experimentar flujos de IA con modo offline, BYOK, historial local, exportacion de conversaciones y soporte de archivos.
 </p>
 
 <a href="https://github.com/Victor00128/Chatbot-Vortex">
-  <img src="https://img.shields.io/badge/C%C3%B3digo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Código de Chatbot Vortex" />
+  <img src="https://img.shields.io/badge/Codigo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Codigo de Chatbot Vortex" />
 </a>
 <a href="https://vortex-ia.netlify.app/">
   <img src="https://img.shields.io/badge/Demo-Online-0EA5E9?style=for-the-badge&logo=netlify&logoColor=white" alt="Demo de Chatbot Vortex" />
@@ -66,17 +66,17 @@ Desarrollador full-stack de Uruguay enfocado en productos web, integraciones con
 <br />
 
 <a href="https://github.com/Victor00128/EDITOR-CODE">
-  <img width="92%" src="https://raw.githubusercontent.com/Victor00128/EDITOR-CODE/main/assets/zenith-screenshot.png" alt="Vista previa de EDITOR-CODE" />
+  <img width="92%" src="https://raw.githubusercontent.com/Victor00128/EDITOR-CODE/main/assets/zenith-screenshot.png" alt="Vista previa de Zenith IDE" />
 </a>
 
-<h3>EDITOR-CODE</h3>
+<h3>Zenith IDE</h3>
 
 <p>
-  IDE con estética cyberpunk, edición asistida por IA, terminal integrada, gestión directa de archivos y vista previa con auto-reparación.
+  IDE con IA, terminal integrada, edicion de archivos y preview con auto reparacion. Un proyecto pensado para productividad y experiencia de desarrollo.
 </p>
 
 <a href="https://github.com/Victor00128/EDITOR-CODE">
-  <img src="https://img.shields.io/badge/C%C3%B3digo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Código de EDITOR-CODE" />
+  <img src="https://img.shields.io/badge/Codigo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Codigo de Zenith IDE" />
 </a>
 
 <br />
@@ -89,48 +89,30 @@ Desarrollador full-stack de Uruguay enfocado en productos web, integraciones con
 <h3>Escape Driver</h3>
 
 <p>
-  Juego arcade de persecución policial con estética retro, sistema de estrellas estilo GTA, Canvas, audio web y progresión por supervivencia.
+  Juego arcade construido con React y Canvas, con ritmo rapido, progresion por supervivencia y estetica retro neon.
 </p>
 
 <a href="https://github.com/Victor00128/Escape-Driver">
-  <img src="https://img.shields.io/badge/C%C3%B3digo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Código de Escape Driver" />
+  <img src="https://img.shields.io/badge/Codigo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Codigo de Escape Driver" />
 </a>
 
 </div>
 
-## Actividad
+## Como trabajo
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&text_color=FFFFFF&icon_color=22D3EE&bg_color=0D1117" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor00128&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=FFFFFF&bg_color=0D1117" alt="Top languages" />
-
-</div>
-
-## Contribuciones
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victor00128/Victor00128/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor00128/Victor00128/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake de contribuciones de GitHub" src="https://raw.githubusercontent.com/Victor00128/Victor00128/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-## Ahora mismo
-
-- Mejorando productos con IA orientados a demo y venta
-- Refinando Chatbot Vortex como proyecto principal
-- Abierto a freelance, colaboraciones y nuevos retos
+- Priorizo claridad de interfaz, velocidad de iteracion y una base tecnica defendible.
+- Me interesan productos con flujo real de usuario: onboarding, estados, errores, persistencia y feedback.
+- Abierto a freelance, colaboraciones y oportunidades remotas donde producto e IA tengan peso real.
 
 ## Contacto
 
 <div align="center">
 
+<a href="https://juliocesar-dev.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-Live-0EA5E9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portafolio" />
+</a>
 <a href="https://vortex-ia.netlify.app/">
-  <img src="https://img.shields.io/badge/Demo-Vortex-0EA5E9?style=for-the-badge&logo=netlify&logoColor=white" alt="Demo Vortex" />
+  <img src="https://img.shields.io/badge/Demo-Vortex-0F172A?style=for-the-badge&logo=netlify&logoColor=white" alt="Demo Vortex" />
 </a>
 <a href="https://www.linkedin.com/in/julio-cesar-406314373/">
   <img src="https://img.shields.io/badge/LinkedIn-Julio%20Cesar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
