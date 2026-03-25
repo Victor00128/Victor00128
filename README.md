@@ -82,18 +82,17 @@ Desarrollador de Uruguay enfocado en producto. Me interesa resolver problemas co
 <br />
 <br />
 
-<a href="https://github.com/Victor00128/Escape-Driver">
-  <img width="92%" src="https://raw.githubusercontent.com/Victor00128/Escape-Driver/main/assets/gameplay.webp.png" alt="Vista previa de Escape Driver" />
-</a>
-
-<h3>Escape Driver</h3>
+<h3>Vortex Gateway</h3>
 
 <p>
-  Juego arcade construido con React y Canvas, con ritmo rapido, progresion por supervivencia y estetica retro neon.
+  Backend OpenAI-compatible para Chatbot Vortex, con ruteo multi proveedor, bearer auth, rate limiting, health checks y una base lista para evolucionar a producto multiusuario.
 </p>
 
-<a href="https://github.com/Victor00128/Escape-Driver">
-  <img src="https://img.shields.io/badge/Codigo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Codigo de Escape Driver" />
+<a href="https://github.com/Victor00128/vortex-gateway">
+  <img src="https://img.shields.io/badge/Codigo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Codigo de Vortex Gateway" />
+</a>
+<a href="https://github.com/Victor00128/vortex-gateway/releases/tag/v1.0.0">
+  <img src="https://img.shields.io/badge/Release-v1.0.0-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Release de Vortex Gateway" />
 </a>
 
 </div>
