@@ -20,7 +20,7 @@
 
 ## Sobre mi
 
-Desarrollador de Uruguay enfocado en producto. Me interesa resolver problemas con interfaces claras, flujos rapidos y una base tecnica que soporte iteracion real, no solo una demo bonita.
+Desarrollador cubano radicado en Montevideo, Uruguay, enfocado en producto. Me interesa resolver problemas con interfaces claras, flujos rapidos y una base tecnica que soporte iteracion real, no solo una demo bonita.
 
 - Frontend orientado al producto
 - Integraciones de IA con foco en UX real
