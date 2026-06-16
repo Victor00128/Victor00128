@@ -46,6 +46,10 @@ Desarrollador de Uruguay enfocado en producto. Me interesa resolver problemas co
 
 <div align="center">
 
+<a href="https://github.com/Victor00128/NEXUS">
+  <img width="92%" src="https://raw.githubusercontent.com/Victor00128/NEXUS/main/assets/agent.png" alt="Vista previa de NEXUS — agente autonomo en accion" />
+</a>
+
 <h3>NEXUS &nbsp;<img src="https://img.shields.io/badge/NUEVO-22D3EE?style=flat-square&labelColor=0F172A" alt="Nuevo" /></h3>
 
 <p>
