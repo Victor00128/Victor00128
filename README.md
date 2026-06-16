@@ -4,7 +4,7 @@
 
 <img
   width="100%"
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1400&color=22D3EE&center=true&vCenter=true&repeat=true&width=980&height=60&lines=Interfaces+claras+para+productos+reales;Herramientas+con+IA+listas+para+demo+y+evoluci%C3%B3n;Freelance+y+colaboraciones"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1400&color=22D3EE&center=true&vCenter=true&repeat=true&width=980&height=60&lines=Interfaces+claras+para+productos+reales;Herramientas+con+IA+listas+para+demo+y+evoluci%C3%B3n;Agentes+aut%C3%B3nomos+que+ejecutan+tareas+reales;Freelance+y+colaboraciones"
   alt="Texto animado de presentacion"
 />
 
@@ -24,6 +24,7 @@ Desarrollador de Uruguay enfocado en producto. Me interesa resolver problemas co
 
 - Frontend orientado al producto
 - Integraciones de IA con foco en UX real
+- Agentes autonomos que planifican y ejecutan codigo en sandbox
 - Capacidad de llevar una demo hacia una version mas seria con APIs, auth, storage y despliegue
 
 ## Stack principal
@@ -44,6 +45,21 @@ Desarrollador de Uruguay enfocado en producto. Me interesa resolver problemas co
 ## Proyectos destacados
 
 <div align="center">
+
+<h3>NEXUS &nbsp;<img src="https://img.shields.io/badge/NUEVO-22D3EE?style=flat-square&labelColor=0F172A" alt="Nuevo" /></h3>
+
+<p>
+  Workspace de IA multi modelo con un agente autonomo. Chatea con cualquier modelo frontier, sube archivos y deja que NEXUS <b>haga el trabajo</b>: planifica, ejecuta codigo en un sandbox cloud real, construye archivos y te los devuelve. Tu solo le hablas normal; el lee la tarea, evalua su complejidad y decide que herramientas usar.
+</p>
+
+<a href="https://github.com/Victor00128/NEXUS">
+  <img src="https://img.shields.io/badge/Codigo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Codigo de NEXUS" />
+</a>
+<img src="https://img.shields.io/badge/Agente-Aut%C3%B3nomo-0EA5E9?style=for-the-badge&logo=openai&logoColor=white" alt="Agente autonomo" />
+<img src="https://img.shields.io/badge/Sandbox-Cloud-10B981?style=for-the-badge&logo=docker&logoColor=white" alt="Sandbox cloud" />
+
+<br />
+<br />
 
 <a href="https://github.com/Victor00128/Chatbot-Vortex">
   <img width="92%" src="https://raw.githubusercontent.com/Victor00128/Chatbot-Vortex/main/Imagen/Chatbot-Vortex.png" alt="Vista previa de Chatbot Vortex" />
@@ -79,21 +95,18 @@ Desarrollador de Uruguay enfocado en producto. Me interesa resolver problemas co
   <img src="https://img.shields.io/badge/Codigo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Codigo de Zenith IDE" />
 </a>
 
+</div>
+
+## Estadisticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=0EA5E9&text_color=ffffff" alt="Estadisticas de GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor00128&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=ffffff" alt="Lenguajes mas usados" />
+
 <br />
-<br />
 
-<h3>Vortex Gateway</h3>
-
-<p>
-  Backend OpenAI-compatible para Chatbot Vortex, con ruteo multi proveedor, bearer auth, rate limiting, health checks y una base lista para evolucionar a producto multiusuario.
-</p>
-
-<a href="https://github.com/Victor00128/vortex-gateway">
-  <img src="https://img.shields.io/badge/Codigo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Codigo de Vortex Gateway" />
-</a>
-<a href="https://github.com/Victor00128/vortex-gateway/releases/tag/v1.0.0">
-  <img src="https://img.shields.io/badge/Release-v1.0.0-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Release de Vortex Gateway" />
-</a>
+<img src="https://streak-stats.demolab.com/?user=Victor00128&hide_border=true&background=0F172A&stroke=0EA5E9&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=ffffff&dates=94A3B8&currStreakNum=ffffff&sideNums=ffffff" alt="Racha de contribuciones" />
 
 </div>
 
