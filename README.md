@@ -124,7 +124,7 @@ Desarrollador enfocado en producto. Me interesa resolver problemas con interface
 
 <div align="center">
 
-<a href="https://juliocesar-dev.netlify.app">
+<a href="https://julio-cesar-morales.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-Live-0EA5E9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portafolio" />
 </a>
 <a href="https://vortex-ia.netlify.app/">
