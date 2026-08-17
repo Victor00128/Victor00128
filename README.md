@@ -71,8 +71,8 @@ Product-focused developer. I enjoy solving problems with clean interfaces, fast 
 <br />
 <br />
 
-<a href="https://github.com/Victor00128/Chatbot-Vortex">
-  <img width="92%" src="https://raw.githubusercontent.com/Victor00128/Chatbot-Vortex/main/Imagen/Chatbot-Vortex.png" alt="Chatbot Vortex preview" />
+<a href="https://vortex-ia.netlify.app/">
+  <img width="92%" src="https://raw.githubusercontent.com/Victor00128/Victor00128/main/assets/chatbot-vortex.png" alt="Chatbot Vortex preview" />
 </a>
 
 <h3>Chatbot Vortex</h3>
@@ -81,9 +81,6 @@ Product-focused developer. I enjoy solving problems with clean interfaces, fast 
   Multi-provider client to experiment with AI flows: offline mode, BYOK, local history, conversation export, and file support.
 </p>
 
-<a href="https://github.com/Victor00128/Chatbot-Vortex">
-  <img src="https://img.shields.io/badge/Code-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Chatbot Vortex code" />
-</a>
 <a href="https://vortex-ia.netlify.app/">
   <img src="https://img.shields.io/badge/Demo-Online-0EA5E9?style=for-the-badge&logo=netlify&logoColor=white" alt="Chatbot Vortex demo" />
 </a>
