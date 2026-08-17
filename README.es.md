@@ -4,7 +4,7 @@
   <a href="https://github.com/Victor00128/Victor00128/blob/main/README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-22D3EE?style=flat-square&labelColor=0F172A&logo=googletranslate&logoColor=0F172A" alt="Espanol (actual)" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20Engineer%20%7C%20React%20%7C%20TypeScript%20%7C%20Applied%20AI&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20TypeScript%20%7C%20Integracion%20de%20APIs%20LLM&descAlignY=60&descSize=18" />
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 />
 
 <p>
-  Construyo productos web con React, TypeScript e IA aplicada. Mi foco esta en experiencias que se puedan mostrar bien en demo, validar rapido y endurecer con criterio de produccion.
+  Construyo productos web con React y TypeScript, e integro APIs de modelos de lenguaje dentro de ellos: la IA es una funcionalidad del producto, no un atajo para escribirlo. Mi foco esta en experiencias que se puedan mostrar bien en demo, validar rapido y endurecer con criterio de produccion.
 </p>
 
 <img src="https://img.shields.io/badge/Role-Product%20Engineer-22D3EE?style=for-the-badge&labelColor=0F172A&color=22D3EE" alt="Role" />
@@ -29,7 +29,7 @@
 Desarrollador enfocado en producto. Me interesa resolver problemas con interfaces claras, flujos rapidos y una base tecnica que soporte iteracion real, no solo una demo bonita.
 
 - Frontend orientado al producto
-- Integraciones de IA con foco en UX real
+- Integracion de APIs de LLM pensada sobre flujos de usuario reales
 - Agentes autonomos que planifican y ejecutan codigo en sandbox
 - Capacidad de llevar una demo hacia una version mas seria con APIs, auth, storage y despliegue
 
