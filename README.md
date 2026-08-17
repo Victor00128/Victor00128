@@ -4,7 +4,7 @@
   <a href="https://github.com/Victor00128/Victor00128/blob/main/README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-1E293B?style=flat-square&labelColor=1E293B&logo=googletranslate&logoColor=64748B" alt="Cambiar a espanol" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20Engineer%20%7C%20React%20%7C%20TypeScript%20%7C%20Applied%20AI&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20TypeScript%20%7C%20LLM%20API%20Integration&descAlignY=60&descSize=18" />
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 />
 
 <p>
-  I build web products with React, TypeScript, and applied AI. My focus is on experiences that demo well, validate quickly, and harden to production standards.
+  I build web products with React and TypeScript, and I wire LLM APIs into them so the AI is a feature of the product, not a shortcut for writing it. My focus is on experiences that demo well, validate quickly, and harden to production standards.
 </p>
 
 <img src="https://img.shields.io/badge/Role-Product%20Engineer-22D3EE?style=for-the-badge&labelColor=0F172A&color=22D3EE" alt="Role" />
@@ -29,7 +29,7 @@
 Product-focused developer. I enjoy solving problems with clean interfaces, fast flows, and a technical foundation built for real iteration, not just a pretty demo.
 
 - Product-oriented frontend
-- AI integrations focused on real UX
+- LLM API integrations designed around real user flows
 - Autonomous agents that plan and run code in a sandbox
 - Able to take a demo to a more serious version with APIs, auth, storage, and deployment
 
