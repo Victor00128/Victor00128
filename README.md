@@ -71,7 +71,7 @@ Product-focused developer. I enjoy solving problems with clean interfaces, fast 
 <br />
 <br />
 
-<a href="https://vortex-ia.netlify.app/">
+<a href="https://chatbot-vortex.vercel.app/">
   <img width="92%" src="https://raw.githubusercontent.com/Victor00128/Victor00128/main/assets/chatbot-vortex.png" alt="Chatbot Vortex preview" />
 </a>
 
@@ -84,8 +84,8 @@ Product-focused developer. I enjoy solving problems with clean interfaces, fast 
 <a href="https://github.com/Victor00128/Chatbot-Vortex">
   <img src="https://img.shields.io/badge/Code-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Chatbot Vortex code" />
 </a>
-<a href="https://vortex-ia.netlify.app/">
-  <img src="https://img.shields.io/badge/Demo-Online-0EA5E9?style=for-the-badge&logo=netlify&logoColor=white" alt="Chatbot Vortex demo" />
+<a href="https://chatbot-vortex.vercel.app/">
+  <img src="https://img.shields.io/badge/Demo-Online-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Chatbot Vortex demo" />
 </a>
 
 <br />
@@ -130,11 +130,11 @@ Product-focused developer. I enjoy solving problems with clean interfaces, fast 
 
 <div align="center">
 
-<a href="https://julio-cesar-morales.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-Live-0EA5E9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+<a href="https://julio-cesar-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Live-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://vortex-ia.netlify.app/">
-  <img src="https://img.shields.io/badge/Demo-Vortex-0F172A?style=for-the-badge&logo=netlify&logoColor=white" alt="Vortex demo" />
+<a href="https://chatbot-vortex.vercel.app/">
+  <img src="https://img.shields.io/badge/Demo-Vortex-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Vortex demo" />
 </a>
 <a href="https://www.linkedin.com/in/julio-cesar-406314373/">
   <img src="https://img.shields.io/badge/LinkedIn-Julio%20Cesar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
