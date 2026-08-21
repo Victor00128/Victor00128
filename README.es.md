@@ -15,7 +15,7 @@
 />
 
 <p>
-  Construyo productos web con React y TypeScript, e integro APIs de modelos de lenguaje dentro de ellos: la IA es una funcionalidad del producto, no un atajo para escribirlo. Mi foco esta en experiencias que se puedan mostrar bien en demo, validar rapido y endurecer con criterio de produccion.
+  Ayudo a equipos a construir y mejorar productos con React + TypeScript: frontends enfocados, integraciones de API confiables y funciones de IA prácticas con estados claros de carga, error y vacío.
 </p>
 
 <img src="https://img.shields.io/badge/Role-Product%20Engineer-22D3EE?style=for-the-badge&labelColor=0F172A&color=22D3EE" alt="Role" />
@@ -26,12 +26,20 @@
 
 ## Sobre mi
 
-Desarrollador enfocado en producto. Me interesa resolver problemas con interfaces claras, flujos rapidos y una base tecnica que soporte iteracion real, no solo una demo bonita.
+Desarrollador enfocado en producto. Me interesa resolver problemas con interfaces claras, flujos rápidos y una base técnica que soporte iteración real, no solo una demo bonita.
 
 - Frontend orientado al producto
-- Integracion de APIs de LLM pensada sobre flujos de usuario reales
-- Agentes autonomos que planifican y ejecutan codigo en sandbox
-- Capacidad de llevar una demo hacia una version mas seria con APIs, auth, storage y despliegue
+- Integración de APIs de LLM pensada sobre flujos de usuario reales
+- Prototipos de agentes autónomos que planifican y ejecutan código en un sandbox aislado
+- Entregas reproducibles con TypeScript, pruebas, CI, documentación y despliegue
+
+## Servicios
+
+- **Implementación React + TypeScript** — pantallas responsive, formularios, estados de API y refactorización de componentes.
+- **Integración de funciones de IA** — chat, streaming, archivos, historial, exportación y conexión de proveedores en un producto existente.
+- **Estabilización de frontend** — diagnosticar fallos de build o tipos, corregir bugs acotados, añadir pruebas enfocadas y recuperar el CI.
+
+¿Tienes un flujo definido o un problema difícil en React? [Mira mi portafolio](https://julio-cesar-portfolio.vercel.app) o [envíame un correo](mailto:juliocesarmoralesalvarado9@gmail.com) con el comportamiento actual y el resultado esperado.
 
 ## Stack principal
 
@@ -42,7 +50,6 @@ Desarrollador enfocado en producto. Me interesa resolver problemas con interface
 <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=22D3EE" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=22D3EE" alt="Node.js" />
 <img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
 <img src="https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Gemini-0F172A?style=for-the-badge&logo=google&logoColor=22D3EE" alt="Gemini" />
 
@@ -64,6 +71,9 @@ Desarrollador enfocado en producto. Me interesa resolver problemas con interface
 
 <a href="https://github.com/Victor00128/NEXUS">
   <img src="https://img.shields.io/badge/Codigo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Codigo de NEXUS" />
+</a>
+<a href="https://nexus-exec.vercel.app/">
+  <img src="https://img.shields.io/badge/Demo-Online-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo de NEXUS" />
 </a>
 <img src="https://img.shields.io/badge/Agente-Aut%C3%B3nomo-0EA5E9?style=for-the-badge&logo=openai&logoColor=white" alt="Agente autonomo" />
 <img src="https://img.shields.io/badge/Sandbox-Cloud-10B981?style=for-the-badge&logo=docker&logoColor=white" alt="Sandbox cloud" />

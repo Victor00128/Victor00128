@@ -15,7 +15,7 @@
 />
 
 <p>
-  I build web products with React and TypeScript, and I wire LLM APIs into them so the AI is a feature of the product, not a shortcut for writing it. My focus is on experiences that demo well, validate quickly, and harden to production standards.
+  I help teams build and improve React + TypeScript products: focused frontends, reliable API integrations, and practical AI features with clear loading, error, and empty states.
 </p>
 
 <img src="https://img.shields.io/badge/Role-Product%20Engineer-22D3EE?style=for-the-badge&labelColor=0F172A&color=22D3EE" alt="Role" />
@@ -30,8 +30,16 @@ Product-focused developer. I enjoy solving problems with clean interfaces, fast 
 
 - Product-oriented frontend
 - LLM API integrations designed around real user flows
-- Autonomous agents that plan and run code in a sandbox
-- Able to take a demo to a more serious version with APIs, auth, storage, and deployment
+- Autonomous agent prototypes that plan and run code in an isolated sandbox
+- Reproducible delivery with TypeScript, tests, CI, documentation, and deployment
+
+## Services
+
+- **React + TypeScript implementation** — responsive screens, forms, API states, and component refactors.
+- **AI feature integration** — chat, streaming, files, history, export, and provider wiring for an existing product.
+- **Frontend stabilization** — diagnose build or type failures, fix scoped bugs, add focused tests, and restore CI.
+
+Have a defined flow or a stubborn React issue? [See my portfolio](https://julio-cesar-portfolio.vercel.app) or [send me an email](mailto:juliocesarmoralesalvarado9@gmail.com) with the current behavior and desired outcome.
 
 ## Tech stack
 
@@ -42,7 +50,6 @@ Product-focused developer. I enjoy solving problems with clean interfaces, fast 
 <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=22D3EE" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=22D3EE" alt="Node.js" />
 <img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
 <img src="https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Gemini-0F172A?style=for-the-badge&logo=google&logoColor=22D3EE" alt="Gemini" />
 
@@ -64,6 +71,9 @@ Product-focused developer. I enjoy solving problems with clean interfaces, fast 
 
 <a href="https://github.com/Victor00128/NEXUS">
   <img src="https://img.shields.io/badge/Code-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="NEXUS code" />
+</a>
+<a href="https://nexus-exec.vercel.app/">
+  <img src="https://img.shields.io/badge/Demo-Online-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="NEXUS demo" />
 </a>
 <img src="https://img.shields.io/badge/Agent-Autonomous-0EA5E9?style=for-the-badge&logo=openai&logoColor=white" alt="Autonomous agent" />
 <img src="https://img.shields.io/badge/Sandbox-Cloud-10B981?style=for-the-badge&logo=docker&logoColor=white" alt="Cloud sandbox" />
