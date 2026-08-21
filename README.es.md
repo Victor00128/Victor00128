@@ -1,30 +1,30 @@
 <p align="right">
-  <a href="https://github.com/Victor00128/Victor00128/blob/main/README.md"><img src="https://img.shields.io/badge/English-1E293B?style=flat-square&labelColor=1E293B&logo=googletranslate&logoColor=64748B" alt="Switch to English" /></a>
+  <a href="https://github.com/Victor00128/Victor00128/blob/main/README.md"><img src="https://img.shields.io/badge/English-1E293B?style=flat-square&labelColor=1E293B&logo=googletranslate&logoColor=64748B" alt="Cambiar a inglés" /></a>
   &nbsp;
-  <a href="https://github.com/Victor00128/Victor00128/blob/main/README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-22D3EE?style=flat-square&labelColor=0F172A&logo=googletranslate&logoColor=0F172A" alt="Espanol (actual)" /></a>
+  <a href="https://github.com/Victor00128/Victor00128/blob/main/README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-22D3EE?style=flat-square&labelColor=0F172A&logo=googletranslate&logoColor=0F172A" alt="Español (actual)" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20TypeScript%20%7C%20Integracion%20de%20APIs%20LLM&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20TypeScript%20%7C%20Integraci%C3%B3n%20de%20APIs%20LLM&descAlignY=60&descSize=18" alt="Julio Cesar Morales — React, TypeScript e integración de APIs LLM" />
 
 <div align="center">
 
 <img
   width="100%"
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1400&color=22D3EE&center=true&vCenter=true&repeat=true&width=980&height=60&lines=Interfaces+claras+para+productos+reales;Herramientas+con+IA+listas+para+demo+y+evoluci%C3%B3n;Agentes+aut%C3%B3nomos+que+ejecutan+tareas+reales;Freelance+y+colaboraciones"
-  alt="Texto animado de presentacion"
+  alt="Texto animado de presentación"
 />
 
 <p>
   Ayudo a equipos a construir y mejorar productos con React + TypeScript: frontends enfocados, integraciones de API confiables y funciones de IA prácticas con estados claros de carga, error y vacío.
 </p>
 
-<img src="https://img.shields.io/badge/Role-Product%20Engineer-22D3EE?style=for-the-badge&labelColor=0F172A&color=22D3EE" alt="Role" />
-<img src="https://img.shields.io/badge/Focus-React%20%7C%20TypeScript%20%7C%20IA-0EA5E9?style=for-the-badge&labelColor=0F172A&color=0EA5E9" alt="Focus" />
-<img src="https://img.shields.io/badge/Status-Freelance%20Available-10B981?style=for-the-badge&labelColor=0F172A&color=10B981" alt="Status" />
+<img src="https://img.shields.io/badge/Rol-Ingeniero%20de%20Producto-22D3EE?style=for-the-badge&labelColor=0F172A&color=22D3EE" alt="Rol: Ingeniero de Producto" />
+<img src="https://img.shields.io/badge/Enfoque-React%20%7C%20TypeScript%20%7C%20IA-0EA5E9?style=for-the-badge&labelColor=0F172A&color=0EA5E9" alt="Enfoque: React, TypeScript e IA" />
+<img src="https://img.shields.io/badge/Estado-Disponible%20para%20freelance-10B981?style=for-the-badge&labelColor=0F172A&color=10B981" alt="Estado: disponible para freelance" />
 
 </div>
 
-## Sobre mi
+## Sobre mí
 
 Desarrollador enfocado en producto. Me interesa resolver problemas con interfaces claras, flujos rápidos y una base técnica que soporte iteración real, no solo una demo bonita.
 
@@ -60,22 +60,22 @@ Desarrollador enfocado en producto. Me interesa resolver problemas con interface
 <div align="center">
 
 <a href="https://github.com/Victor00128/NEXUS">
-  <img width="92%" src="https://raw.githubusercontent.com/Victor00128/NEXUS/main/assets/agent.png" alt="Vista previa de NEXUS — agente autonomo en accion" />
+  <img width="92%" src="https://raw.githubusercontent.com/Victor00128/NEXUS/main/assets/agent.png" alt="Vista previa de NEXUS — agente autónomo en acción" />
 </a>
 
 <h3>NEXUS &nbsp;<img src="https://img.shields.io/badge/NUEVO-22D3EE?style=flat-square&labelColor=0F172A" alt="Nuevo" /></h3>
 
 <p>
-  Workspace de IA multi modelo con un agente autonomo. Chatea con cualquier modelo frontier, sube archivos y deja que NEXUS <b>haga el trabajo</b>: planifica, ejecuta codigo en un sandbox cloud real, construye archivos y te los devuelve. Tu solo le hablas normal; el lee la tarea, evalua su complejidad y decide que herramientas usar.
+  Workspace de IA multimodelo con un agente autónomo. Chatea con modelos avanzados, sube archivos y deja que NEXUS <b>haga el trabajo</b>: planifica, ejecuta código en un sandbox real en la nube, construye archivos y te los devuelve. Tú le hablas con normalidad; él lee la tarea, evalúa su complejidad y decide qué herramientas usar.
 </p>
 
 <a href="https://github.com/Victor00128/NEXUS">
-  <img src="https://img.shields.io/badge/Codigo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Codigo de NEXUS" />
+  <img src="https://img.shields.io/badge/C%C3%B3digo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Código de NEXUS" />
 </a>
 <a href="https://nexus-exec.vercel.app/">
   <img src="https://img.shields.io/badge/Demo-Online-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo de NEXUS" />
 </a>
-<img src="https://img.shields.io/badge/Agente-Aut%C3%B3nomo-0EA5E9?style=for-the-badge&logo=openai&logoColor=white" alt="Agente autonomo" />
+<img src="https://img.shields.io/badge/Agente-Aut%C3%B3nomo-0EA5E9?style=for-the-badge&logo=openai&logoColor=white" alt="Agente autónomo" />
 <img src="https://img.shields.io/badge/Sandbox-Cloud-10B981?style=for-the-badge&logo=docker&logoColor=white" alt="Sandbox cloud" />
 
 <br />
@@ -88,11 +88,11 @@ Desarrollador enfocado en producto. Me interesa resolver problemas con interface
 <h3>Chatbot Vortex</h3>
 
 <p>
-  Cliente multi proveedor para experimentar flujos de IA con modo offline, BYOK, historial local, exportacion de conversaciones y soporte de archivos.
+  Cliente multiproveedor para experimentar flujos de IA con modo offline, BYOK, historial local, exportación de conversaciones y soporte de archivos.
 </p>
 
 <a href="https://github.com/Victor00128/Chatbot-Vortex">
-  <img src="https://img.shields.io/badge/Code-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Codigo de Chatbot Vortex" />
+  <img src="https://img.shields.io/badge/C%C3%B3digo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Código de Chatbot Vortex" />
 </a>
 <a href="https://chatbot-vortex.vercel.app/">
   <img src="https://img.shields.io/badge/Demo-Online-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo de Chatbot Vortex" />
@@ -108,31 +108,29 @@ Desarrollador enfocado en producto. Me interesa resolver problemas con interface
 <h3>Zenith IDE</h3>
 
 <p>
-  IDE con IA, terminal integrada, edicion de archivos y preview con auto reparacion. Un proyecto pensado para productividad y experiencia de desarrollo.
+  IDE con IA, terminal integrada, edición de archivos y vista previa con autorreparación. Un proyecto pensado para productividad y experiencia de desarrollo.
 </p>
 
 <a href="https://github.com/Victor00128/EDITOR-CODE">
-  <img src="https://img.shields.io/badge/Codigo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Codigo de Zenith IDE" />
+  <img src="https://img.shields.io/badge/C%C3%B3digo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Código de Zenith IDE" />
 </a>
 
 </div>
 
-## Estadisticas
+## Entregas verificadas
 
-<div align="center">
+GitHub ya muestra mi historial de contribuciones debajo de este README. Estos enlaces apuntan a verificaciones reproducibles y demos funcionales en lugar de imágenes estadísticas de terceros.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=0EA5E9&text_color=ffffff" alt="Estadisticas de GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor00128&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=ffffff" alt="Lenguajes mas usados" />
+| Proyecto | Verificaciones automáticas | Resultado público |
+| --- | --- | --- |
+| **NEXUS** | [Workflow de CI](https://github.com/Victor00128/NEXUS/actions/workflows/ci.yml) | [Abrir demo](https://nexus-exec.vercel.app/) |
+| **Chatbot Vortex** | [Workflow de CI](https://github.com/Victor00128/Chatbot-Vortex/actions/workflows/ci.yml) | [Abrir demo](https://chatbot-vortex.vercel.app/) |
+| **Zenith IDE** | [Workflow de CI](https://github.com/Victor00128/EDITOR-CODE/actions/workflows/ci.yml) | Prototipo de escritorio; código y pruebas públicos |
+| **Escape Driver** | [Workflow de CI](https://github.com/Victor00128/Escape-Driver/actions/workflows/ci.yml) | [Abrir demo](https://escape-driver.vercel.app/) |
 
-<br />
+## Cómo trabajo
 
-<img src="https://streak-stats.demolab.com/?user=Victor00128&hide_border=true&background=0F172A&stroke=0EA5E9&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=ffffff&dates=94A3B8&currStreakNum=ffffff&sideNums=ffffff" alt="Racha de contribuciones" />
-
-</div>
-
-## Como trabajo
-
-- Priorizo claridad de interfaz, velocidad de iteracion y una base tecnica defendible.
+- Priorizo claridad de interfaz, velocidad de iteración y una base técnica defendible.
 - Me interesan productos con flujo real de usuario: onboarding, estados, errores, persistencia y feedback.
 - Abierto a freelance, colaboraciones y oportunidades remotas donde producto e IA tengan peso real.
 
@@ -155,4 +153,4 @@ Desarrollador enfocado en producto. Me interesa resolver problemas con interface
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=110&section=footer" alt="Pie decorativo" />

@@ -4,7 +4,7 @@
   <a href="https://github.com/Victor00128/Victor00128/blob/main/README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-1E293B?style=flat-square&labelColor=1E293B&logo=googletranslate&logoColor=64748B" alt="Cambiar a espanol" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20TypeScript%20%7C%20LLM%20API%20Integration&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20TypeScript%20%7C%20LLM%20API%20Integration&descAlignY=60&descSize=18" alt="Julio Cesar Morales — React, TypeScript and LLM API integration" />
 
 <div align="center">
 
@@ -117,18 +117,16 @@ Have a defined flow or a stubborn React issue? [See my portfolio](https://julio-
 
 </div>
 
-## Stats
+## Verified delivery
 
-<div align="center">
+GitHub already shows my contribution history below this README. These links point to reproducible checks and working demos instead of third-party statistic images.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Victor00128&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=0EA5E9&text_color=ffffff" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor00128&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=ffffff" alt="Most used languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com/?user=Victor00128&hide_border=true&background=0F172A&stroke=0EA5E9&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=ffffff&dates=94A3B8&currStreakNum=ffffff&sideNums=ffffff" alt="Contribution streak" />
-
-</div>
+| Project | Automated checks | Live result |
+| --- | --- | --- |
+| **NEXUS** | [CI workflow](https://github.com/Victor00128/NEXUS/actions/workflows/ci.yml) | [Open demo](https://nexus-exec.vercel.app/) |
+| **Chatbot Vortex** | [CI workflow](https://github.com/Victor00128/Chatbot-Vortex/actions/workflows/ci.yml) | [Open demo](https://chatbot-vortex.vercel.app/) |
+| **Zenith IDE** | [CI workflow](https://github.com/Victor00128/EDITOR-CODE/actions/workflows/ci.yml) | Desktop prototype; source and tests are public |
+| **Escape Driver** | [CI workflow](https://github.com/Victor00128/Escape-Driver/actions/workflows/ci.yml) | [Open demo](https://escape-driver.vercel.app/) |
 
 ## How I work
 
@@ -155,4 +153,4 @@ Have a defined flow or a stubborn React issue? [See my portfolio](https://julio-
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=110&section=footer" alt="Decorative footer" />
