@@ -37,6 +37,8 @@ Product-focused developer. I enjoy solving problems with clean interfaces, fast 
 
 - **React + TypeScript implementation** — responsive screens, forms, API states, and component refactors.
 - **AI feature integration** — chat, streaming, files, history, export, and provider wiring for an existing product.
+- **Dashboards and internal tools** — data-heavy screens, filters, operational workflows, and clear decision states.
+- **API integration** — connect existing products to REST or model-provider workflows with explicit failure handling.
 - **Frontend stabilization** — diagnose build or type failures, fix scoped bugs, add focused tests, and restore CI.
 
 Have a defined flow or a stubborn React issue? [See my portfolio](https://julio-cesar-portfolio.vercel.app) or [send me an email](mailto:juliocesarmoralesalvarado9@gmail.com) with the current behavior and desired outcome.

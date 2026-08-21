@@ -37,6 +37,8 @@ Desarrollador enfocado en producto. Me interesa resolver problemas con interface
 
 - **Implementación React + TypeScript** — pantallas responsive, formularios, estados de API y refactorización de componentes.
 - **Integración de funciones de IA** — chat, streaming, archivos, historial, exportación y conexión de proveedores en un producto existente.
+- **Dashboards y herramientas internas** — pantallas con datos, filtros, flujos operativos y estados claros para tomar decisiones.
+- **Integración de APIs** — conexión de productos existentes con servicios REST o proveedores de modelos y manejo explícito de fallos.
 - **Estabilización de frontend** — diagnosticar fallos de build o tipos, corregir bugs acotados, añadir pruebas enfocadas y recuperar el CI.
 
 ¿Tienes un flujo definido o un problema difícil en React? [Mira mi portafolio](https://julio-cesar-portfolio.vercel.app) o [envíame un correo](mailto:juliocesarmoralesalvarado9@gmail.com) con el comportamiento actual y el resultado esperado.
