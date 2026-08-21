@@ -61,6 +61,26 @@ Desarrollador enfocado en producto. Me interesa resolver problemas con interface
 
 <div align="center">
 
+<a href="https://julio-cesar-portfolio.vercel.app">
+  <img width="92%" src="https://raw.githubusercontent.com/Victor00128/julio-cesar-portfolio/main/public/og-image.png" alt="Vista previa del portafolio" />
+</a>
+
+<h3>Portafolio</h3>
+
+<p>
+  Empieza por aquí. Cada proyecto está explicado como problema, qué construí, la decisión técnica detrás y el resultado verificable — además de servicios, CV y formulario de contacto.
+</p>
+
+<a href="https://julio-cesar-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Sitio-Online-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Sitio del portafolio" />
+</a>
+<a href="https://github.com/Victor00128/julio-cesar-portfolio">
+  <img src="https://img.shields.io/badge/C%C3%B3digo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Código del portafolio" />
+</a>
+
+<br />
+<br />
+
 <a href="https://github.com/Victor00128/NEXUS">
   <img width="92%" src="https://raw.githubusercontent.com/Victor00128/NEXUS/main/assets/agent.png" alt="Vista previa de NEXUS — agente autónomo en acción" />
 </a>
@@ -125,6 +145,7 @@ GitHub ya muestra mi historial de contribuciones debajo de este README. Estos en
 
 | Proyecto | Verificaciones automáticas | Resultado público |
 | --- | --- | --- |
+| **Portafolio** | [Workflow CI](https://github.com/Victor00128/julio-cesar-portfolio/actions/workflows/ci.yml) | [Abrir sitio](https://julio-cesar-portfolio.vercel.app) |
 | **NEXUS** | [Workflow de CI](https://github.com/Victor00128/NEXUS/actions/workflows/ci.yml) | [Abrir demo](https://nexus-exec.vercel.app/) |
 | **Chatbot Vortex** | [Workflow de CI](https://github.com/Victor00128/Chatbot-Vortex/actions/workflows/ci.yml) | [Abrir demo](https://chatbot-vortex.vercel.app/) |
 | **Zenith IDE** | [Workflow de CI](https://github.com/Victor00128/EDITOR-CODE/actions/workflows/ci.yml) | Prototipo de escritorio; código y pruebas públicos |

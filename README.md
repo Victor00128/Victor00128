@@ -61,6 +61,26 @@ Have a defined flow or a stubborn React issue? [See my portfolio](https://julio-
 
 <div align="center">
 
+<a href="https://julio-cesar-portfolio.vercel.app">
+  <img width="92%" src="https://raw.githubusercontent.com/Victor00128/julio-cesar-portfolio/main/public/og-image.png" alt="Portfolio preview" />
+</a>
+
+<h3>Portfolio</h3>
+
+<p>
+  Start here. Each project is written up as problem, what I built, the technical decision behind it, and the verifiable result — plus services, CV and a contact form.
+</p>
+
+<a href="https://julio-cesar-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Live-Site-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio site" />
+</a>
+<a href="https://github.com/Victor00128/julio-cesar-portfolio">
+  <img src="https://img.shields.io/badge/Code-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio code" />
+</a>
+
+<br />
+<br />
+
 <a href="https://github.com/Victor00128/NEXUS">
   <img width="92%" src="https://raw.githubusercontent.com/Victor00128/NEXUS/main/assets/agent.png" alt="NEXUS preview — autonomous agent in action" />
 </a>
@@ -125,6 +145,7 @@ GitHub already shows my contribution history below this README. These links poin
 
 | Project | Automated checks | Live result |
 | --- | --- | --- |
+| **Portfolio** | [CI workflow](https://github.com/Victor00128/julio-cesar-portfolio/actions/workflows/ci.yml) | [Open site](https://julio-cesar-portfolio.vercel.app) |
 | **NEXUS** | [CI workflow](https://github.com/Victor00128/NEXUS/actions/workflows/ci.yml) | [Open demo](https://nexus-exec.vercel.app/) |
 | **Chatbot Vortex** | [CI workflow](https://github.com/Victor00128/Chatbot-Vortex/actions/workflows/ci.yml) | [Open demo](https://chatbot-vortex.vercel.app/) |
 | **Zenith IDE** | [CI workflow](https://github.com/Victor00128/EDITOR-CODE/actions/workflows/ci.yml) | Desktop prototype; source and tests are public |
