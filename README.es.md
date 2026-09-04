@@ -1,7 +1,7 @@
 <p align="right">
-  <a href="https://github.com/Victor00128/Victor00128/blob/main/README.md"><img src="https://img.shields.io/badge/English-1E293B?style=flat-square&labelColor=1E293B&logo=googletranslate&logoColor=64748B" alt="Cambiar a inglés" /></a>
+  <a href="https://github.com/jc-morales-dev/jc-morales-dev/blob/main/README.md"><img src="https://img.shields.io/badge/English-1E293B?style=flat-square&labelColor=1E293B&logo=googletranslate&logoColor=64748B" alt="Cambiar a inglés" /></a>
   &nbsp;
-  <a href="https://github.com/Victor00128/Victor00128/blob/main/README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-22D3EE?style=flat-square&labelColor=0F172A&logo=googletranslate&logoColor=0F172A" alt="Español (actual)" /></a>
+  <a href="https://github.com/jc-morales-dev/jc-morales-dev/blob/main/README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-22D3EE?style=flat-square&labelColor=0F172A&logo=googletranslate&logoColor=0F172A" alt="Español (actual)" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20TypeScript%20%7C%20Integraci%C3%B3n%20de%20APIs%20LLM&descAlignY=60&descSize=18" alt="Julio Cesar Morales — React, TypeScript e integración de APIs LLM" />
@@ -62,7 +62,7 @@ Desarrollador enfocado en producto. Me interesa resolver problemas con interface
 <div align="center">
 
 <a href="https://julio-cesar-portfolio.vercel.app">
-  <img width="92%" src="https://raw.githubusercontent.com/Victor00128/julio-cesar-portfolio/main/public/og-image.png" alt="Vista previa del portafolio" />
+  <img width="92%" src="https://raw.githubusercontent.com/jc-morales-dev/julio-cesar-portfolio/main/public/og-image.png" alt="Vista previa del portafolio" />
 </a>
 
 <h3>Portafolio</h3>
@@ -74,24 +74,24 @@ Desarrollador enfocado en producto. Me interesa resolver problemas con interface
 <a href="https://julio-cesar-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Sitio-Online-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Sitio del portafolio" />
 </a>
-<a href="https://github.com/Victor00128/julio-cesar-portfolio">
+<a href="https://github.com/jc-morales-dev/julio-cesar-portfolio">
   <img src="https://img.shields.io/badge/C%C3%B3digo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Código del portafolio" />
 </a>
 
 <br />
 <br />
 
-<a href="https://github.com/Victor00128/NEXUS">
-  <img width="92%" src="https://raw.githubusercontent.com/Victor00128/NEXUS/main/assets/agent.png" alt="Vista previa de NEXUS — agente autónomo en acción" />
+<a href="https://github.com/jc-morales-dev/NEXUS">
+  <img width="92%" src="https://raw.githubusercontent.com/jc-morales-dev/NEXUS/main/assets/agent.png" alt="Vista previa de NEXUS — agente autónomo en acción" />
 </a>
 
-<h3>NEXUS &nbsp;<img src="https://img.shields.io/badge/NUEVO-22D3EE?style=flat-square&labelColor=0F172A" alt="Nuevo" /></h3>
+<h3>NEXUS</h3>
 
 <p>
   Workspace de IA multimodelo con un agente autónomo. Chatea con modelos avanzados, sube archivos y deja que NEXUS <b>haga el trabajo</b>: planifica, ejecuta código en un sandbox real en la nube, construye archivos y te los devuelve. Tú le hablas con normalidad; él lee la tarea, evalúa su complejidad y decide qué herramientas usar.
 </p>
 
-<a href="https://github.com/Victor00128/NEXUS">
+<a href="https://github.com/jc-morales-dev/NEXUS">
   <img src="https://img.shields.io/badge/C%C3%B3digo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Código de NEXUS" />
 </a>
 <a href="https://nexus-exec.vercel.app/">
@@ -103,8 +103,38 @@ Desarrollador enfocado en producto. Me interesa resolver problemas con interface
 <br />
 <br />
 
+<a href="https://github.com/jc-morales-dev/NovaClaw">
+  <img height="360" src="https://raw.githubusercontent.com/jc-morales-dev/NovaClaw/main/docs/media/screenshot-home.png" alt="Pantalla de inicio de NovaClaw en un teléfono real" />
+  &nbsp;&nbsp;
+  <img height="360" src="https://raw.githubusercontent.com/jc-morales-dev/NovaClaw/main/docs/media/screenshot-terminal.png" alt="Terminal de NovaClaw: kernel Linux real y Node 20 corriendo en el teléfono" />
+</a>
+
+<h3>NovaClaw &nbsp;<img src="https://img.shields.io/badge/NUEVO-22D3EE?style=flat-square&labelColor=0F172A" alt="Nuevo" /></h3>
+
+<p>
+  Un agente de programación que corre <b>entero dentro de un teléfono Android</b>.
+  El APK lleva un Linux embebido (bootstrap de Termux) y Node.js, y ejecuta el
+  agente ahí adentro: llamada nativa a herramientas, ediciones quirúrgicas de
+  archivos, una terminal PTY de verdad y las capacidades del teléfono como
+  herramientas. Sin root y sin servidor: lo único que sale del dispositivo es la
+  llamada a la API del modelo. La segunda captura es <code>uname -a</code>
+  corriendo en el teléfono e imprimiendo un kernel <code>aarch64 GNU/Linux</code>.
+</p>
+
+<a href="https://github.com/jc-morales-dev/NovaClaw">
+  <img src="https://img.shields.io/badge/C%C3%B3digo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Código de NovaClaw" />
+</a>
+<a href="https://github.com/jc-morales-dev/NovaClaw/releases/latest">
+  <img src="https://img.shields.io/badge/Descargar-APK-10B981?style=for-the-badge&logo=android&logoColor=white" alt="Descargar el APK" />
+</a>
+<img src="https://img.shields.io/badge/Corre-En%20el%20dispositivo-0EA5E9?style=for-the-badge&logo=android&logoColor=white" alt="Corre en el dispositivo" />
+<img src="https://img.shields.io/badge/Kotlin%20%2B%20TypeScript-0F172A?style=for-the-badge&logo=kotlin&logoColor=22D3EE" alt="Kotlin y TypeScript" />
+
+<br />
+<br />
+
 <a href="https://chatbot-vortex.vercel.app/">
-  <img width="92%" src="https://raw.githubusercontent.com/Victor00128/Victor00128/main/assets/chatbot-vortex.png" alt="Vista previa de Chatbot Vortex" />
+  <img width="92%" src="https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/chatbot-vortex.png" alt="Vista previa de Chatbot Vortex" />
 </a>
 
 <h3>Chatbot Vortex</h3>
@@ -113,7 +143,7 @@ Desarrollador enfocado en producto. Me interesa resolver problemas con interface
   Cliente multiproveedor para experimentar flujos de IA con modo offline, BYOK, historial local, exportación de conversaciones y soporte de archivos.
 </p>
 
-<a href="https://github.com/Victor00128/Chatbot-Vortex">
+<a href="https://github.com/jc-morales-dev/Chatbot-Vortex">
   <img src="https://img.shields.io/badge/C%C3%B3digo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Código de Chatbot Vortex" />
 </a>
 <a href="https://chatbot-vortex.vercel.app/">
@@ -123,8 +153,8 @@ Desarrollador enfocado en producto. Me interesa resolver problemas con interface
 <br />
 <br />
 
-<a href="https://github.com/Victor00128/EDITOR-CODE">
-  <img width="92%" src="https://raw.githubusercontent.com/Victor00128/EDITOR-CODE/main/assets/zenith-screenshot.png" alt="Vista previa de Zenith IDE" />
+<a href="https://github.com/jc-morales-dev/EDITOR-CODE">
+  <img width="92%" src="https://raw.githubusercontent.com/jc-morales-dev/EDITOR-CODE/main/assets/zenith-screenshot.png" alt="Vista previa de Zenith IDE" />
 </a>
 
 <h3>Zenith IDE</h3>
@@ -133,7 +163,7 @@ Desarrollador enfocado en producto. Me interesa resolver problemas con interface
   IDE con IA, terminal integrada, edición de archivos y vista previa con autorreparación. Un proyecto pensado para productividad y experiencia de desarrollo.
 </p>
 
-<a href="https://github.com/Victor00128/EDITOR-CODE">
+<a href="https://github.com/jc-morales-dev/EDITOR-CODE">
   <img src="https://img.shields.io/badge/C%C3%B3digo-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Código de Zenith IDE" />
 </a>
 
@@ -145,11 +175,12 @@ GitHub ya muestra mi historial de contribuciones debajo de este README. Estos en
 
 | Proyecto | Verificaciones automáticas | Resultado público |
 | --- | --- | --- |
-| **Portafolio** | [Workflow CI](https://github.com/Victor00128/julio-cesar-portfolio/actions/workflows/ci.yml) | [Abrir sitio](https://julio-cesar-portfolio.vercel.app) |
-| **NEXUS** | [Workflow de CI](https://github.com/Victor00128/NEXUS/actions/workflows/ci.yml) | [Abrir demo](https://nexus-exec.vercel.app/) |
-| **Chatbot Vortex** | [Workflow de CI](https://github.com/Victor00128/Chatbot-Vortex/actions/workflows/ci.yml) | [Abrir demo](https://chatbot-vortex.vercel.app/) |
-| **Zenith IDE** | [Workflow de CI](https://github.com/Victor00128/EDITOR-CODE/actions/workflows/ci.yml) | Prototipo de escritorio; código y pruebas públicos |
-| **Escape Driver** | [Workflow de CI](https://github.com/Victor00128/Escape-Driver/actions/workflows/ci.yml) | [Abrir demo](https://escape-driver.vercel.app/) |
+| **Portafolio** | [Workflow CI](https://github.com/jc-morales-dev/julio-cesar-portfolio/actions/workflows/ci.yml) | [Abrir sitio](https://julio-cesar-portfolio.vercel.app) |
+| **NEXUS** | [Workflow de CI](https://github.com/jc-morales-dev/NEXUS/actions/workflows/ci.yml) | [Abrir demo](https://nexus-exec.vercel.app/) |
+| **NovaClaw** | 101 tests + typecheck, [ver el repo](https://github.com/jc-morales-dev/NovaClaw) | [Descargar el APK firmado](https://github.com/jc-morales-dev/NovaClaw/releases/latest) |
+| **Chatbot Vortex** | [Workflow de CI](https://github.com/jc-morales-dev/Chatbot-Vortex/actions/workflows/ci.yml) | [Abrir demo](https://chatbot-vortex.vercel.app/) |
+| **Zenith IDE** | [Workflow de CI](https://github.com/jc-morales-dev/EDITOR-CODE/actions/workflows/ci.yml) | Prototipo de escritorio; código y pruebas públicos |
+| **Escape Driver** | [Workflow de CI](https://github.com/jc-morales-dev/Escape-Driver/actions/workflows/ci.yml) | [Abrir demo](https://escape-driver.vercel.app/) |
 
 ## Cómo trabajo
 

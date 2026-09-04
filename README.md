@@ -1,7 +1,7 @@
 <p align="right">
-  <a href="https://github.com/Victor00128/Victor00128/blob/main/README.md"><img src="https://img.shields.io/badge/English-22D3EE?style=flat-square&labelColor=0F172A&logo=googletranslate&logoColor=0F172A" alt="English (current)" /></a>
+  <a href="https://github.com/jc-morales-dev/jc-morales-dev/blob/main/README.md"><img src="https://img.shields.io/badge/English-22D3EE?style=flat-square&labelColor=0F172A&logo=googletranslate&logoColor=0F172A" alt="English (current)" /></a>
   &nbsp;
-  <a href="https://github.com/Victor00128/Victor00128/blob/main/README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-1E293B?style=flat-square&labelColor=1E293B&logo=googletranslate&logoColor=64748B" alt="Cambiar a espanol" /></a>
+  <a href="https://github.com/jc-morales-dev/jc-morales-dev/blob/main/README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-1E293B?style=flat-square&labelColor=1E293B&logo=googletranslate&logoColor=64748B" alt="Cambiar a espanol" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20TypeScript%20%7C%20LLM%20API%20Integration&descAlignY=60&descSize=18" alt="Julio Cesar Morales — React, TypeScript and LLM API integration" />
@@ -62,7 +62,7 @@ Have a defined flow or a stubborn React issue? [See my portfolio](https://julio-
 <div align="center">
 
 <a href="https://julio-cesar-portfolio.vercel.app">
-  <img width="92%" src="https://raw.githubusercontent.com/Victor00128/julio-cesar-portfolio/main/public/og-image.png" alt="Portfolio preview" />
+  <img width="92%" src="https://raw.githubusercontent.com/jc-morales-dev/julio-cesar-portfolio/main/public/og-image.png" alt="Portfolio preview" />
 </a>
 
 <h3>Portfolio</h3>
@@ -74,24 +74,24 @@ Have a defined flow or a stubborn React issue? [See my portfolio](https://julio-
 <a href="https://julio-cesar-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Live-Site-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio site" />
 </a>
-<a href="https://github.com/Victor00128/julio-cesar-portfolio">
+<a href="https://github.com/jc-morales-dev/julio-cesar-portfolio">
   <img src="https://img.shields.io/badge/Code-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio code" />
 </a>
 
 <br />
 <br />
 
-<a href="https://github.com/Victor00128/NEXUS">
-  <img width="92%" src="https://raw.githubusercontent.com/Victor00128/NEXUS/main/assets/agent.png" alt="NEXUS preview — autonomous agent in action" />
+<a href="https://github.com/jc-morales-dev/NEXUS">
+  <img width="92%" src="https://raw.githubusercontent.com/jc-morales-dev/NEXUS/main/assets/agent.png" alt="NEXUS preview — autonomous agent in action" />
 </a>
 
-<h3>NEXUS &nbsp;<img src="https://img.shields.io/badge/NEW-22D3EE?style=flat-square&labelColor=0F172A" alt="New" /></h3>
+<h3>NEXUS</h3>
 
 <p>
   Multi-model AI workspace with an autonomous agent. Chat with any frontier model, upload files, and let NEXUS <b>do the work</b>: it plans, runs code in a real cloud sandbox, builds files, and hands them back. You just talk to it normally; it reads the task, sizes up its complexity, and decides which tools to use.
 </p>
 
-<a href="https://github.com/Victor00128/NEXUS">
+<a href="https://github.com/jc-morales-dev/NEXUS">
   <img src="https://img.shields.io/badge/Code-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="NEXUS code" />
 </a>
 <a href="https://nexus-exec.vercel.app/">
@@ -103,8 +103,37 @@ Have a defined flow or a stubborn React issue? [See my portfolio](https://julio-
 <br />
 <br />
 
+<a href="https://github.com/jc-morales-dev/NovaClaw">
+  <img height="360" src="https://raw.githubusercontent.com/jc-morales-dev/NovaClaw/main/docs/media/screenshot-home.png" alt="NovaClaw home screen on a real phone" />
+  &nbsp;&nbsp;
+  <img height="360" src="https://raw.githubusercontent.com/jc-morales-dev/NovaClaw/main/docs/media/screenshot-terminal.png" alt="NovaClaw terminal: a real Linux kernel and Node 20 running on the phone" />
+</a>
+
+<h3>NovaClaw &nbsp;<img src="https://img.shields.io/badge/NEW-22D3EE?style=flat-square&labelColor=0F172A" alt="New" /></h3>
+
+<p>
+  A coding agent that runs <b>entirely on an Android phone</b>. The APK ships an
+  embedded Linux (Termux bootstrap) and Node.js, and runs the whole agent inside
+  it: native function-calling, surgical file edits, a real PTY terminal, and phone
+  capabilities as tools. No root, no server — the only thing that leaves the
+  device is the model API call. That second screenshot is <code>uname -a</code>
+  on the phone, printing a real <code>aarch64 GNU/Linux</code> kernel.
+</p>
+
+<a href="https://github.com/jc-morales-dev/NovaClaw">
+  <img src="https://img.shields.io/badge/Code-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="NovaClaw code" />
+</a>
+<a href="https://github.com/jc-morales-dev/NovaClaw/releases/latest">
+  <img src="https://img.shields.io/badge/Download-APK-10B981?style=for-the-badge&logo=android&logoColor=white" alt="Download the APK" />
+</a>
+<img src="https://img.shields.io/badge/Runs-On%20device-0EA5E9?style=for-the-badge&logo=android&logoColor=white" alt="Runs on device" />
+<img src="https://img.shields.io/badge/Kotlin%20%2B%20TypeScript-0F172A?style=for-the-badge&logo=kotlin&logoColor=22D3EE" alt="Kotlin and TypeScript" />
+
+<br />
+<br />
+
 <a href="https://chatbot-vortex.vercel.app/">
-  <img width="92%" src="https://raw.githubusercontent.com/Victor00128/Victor00128/main/assets/chatbot-vortex.png" alt="Chatbot Vortex preview" />
+  <img width="92%" src="https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/chatbot-vortex.png" alt="Chatbot Vortex preview" />
 </a>
 
 <h3>Chatbot Vortex</h3>
@@ -113,7 +142,7 @@ Have a defined flow or a stubborn React issue? [See my portfolio](https://julio-
   Multi-provider client to experiment with AI flows: offline mode, BYOK, local history, conversation export, and file support.
 </p>
 
-<a href="https://github.com/Victor00128/Chatbot-Vortex">
+<a href="https://github.com/jc-morales-dev/Chatbot-Vortex">
   <img src="https://img.shields.io/badge/Code-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Chatbot Vortex code" />
 </a>
 <a href="https://chatbot-vortex.vercel.app/">
@@ -123,8 +152,8 @@ Have a defined flow or a stubborn React issue? [See my portfolio](https://julio-
 <br />
 <br />
 
-<a href="https://github.com/Victor00128/EDITOR-CODE">
-  <img width="92%" src="https://raw.githubusercontent.com/Victor00128/EDITOR-CODE/main/assets/zenith-screenshot.png" alt="Zenith IDE preview" />
+<a href="https://github.com/jc-morales-dev/EDITOR-CODE">
+  <img width="92%" src="https://raw.githubusercontent.com/jc-morales-dev/EDITOR-CODE/main/assets/zenith-screenshot.png" alt="Zenith IDE preview" />
 </a>
 
 <h3>Zenith IDE</h3>
@@ -133,7 +162,7 @@ Have a defined flow or a stubborn React issue? [See my portfolio](https://julio-
   AI-powered IDE with an integrated terminal, file editing, and live preview with auto-repair. Built for productivity and developer experience.
 </p>
 
-<a href="https://github.com/Victor00128/EDITOR-CODE">
+<a href="https://github.com/jc-morales-dev/EDITOR-CODE">
   <img src="https://img.shields.io/badge/Code-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Zenith IDE code" />
 </a>
 
@@ -145,11 +174,12 @@ GitHub already shows my contribution history below this README. These links poin
 
 | Project | Automated checks | Live result |
 | --- | --- | --- |
-| **Portfolio** | [CI workflow](https://github.com/Victor00128/julio-cesar-portfolio/actions/workflows/ci.yml) | [Open site](https://julio-cesar-portfolio.vercel.app) |
-| **NEXUS** | [CI workflow](https://github.com/Victor00128/NEXUS/actions/workflows/ci.yml) | [Open demo](https://nexus-exec.vercel.app/) |
-| **Chatbot Vortex** | [CI workflow](https://github.com/Victor00128/Chatbot-Vortex/actions/workflows/ci.yml) | [Open demo](https://chatbot-vortex.vercel.app/) |
-| **Zenith IDE** | [CI workflow](https://github.com/Victor00128/EDITOR-CODE/actions/workflows/ci.yml) | Desktop prototype; source and tests are public |
-| **Escape Driver** | [CI workflow](https://github.com/Victor00128/Escape-Driver/actions/workflows/ci.yml) | [Open demo](https://escape-driver.vercel.app/) |
+| **Portfolio** | [CI workflow](https://github.com/jc-morales-dev/julio-cesar-portfolio/actions/workflows/ci.yml) | [Open site](https://julio-cesar-portfolio.vercel.app) |
+| **NEXUS** | [CI workflow](https://github.com/jc-morales-dev/NEXUS/actions/workflows/ci.yml) | [Open demo](https://nexus-exec.vercel.app/) |
+| **NovaClaw** | 101 tests + typecheck, [see the repo](https://github.com/jc-morales-dev/NovaClaw) | [Download the signed APK](https://github.com/jc-morales-dev/NovaClaw/releases/latest) |
+| **Chatbot Vortex** | [CI workflow](https://github.com/jc-morales-dev/Chatbot-Vortex/actions/workflows/ci.yml) | [Open demo](https://chatbot-vortex.vercel.app/) |
+| **Zenith IDE** | [CI workflow](https://github.com/jc-morales-dev/EDITOR-CODE/actions/workflows/ci.yml) | Desktop prototype; source and tests are public |
+| **Escape Driver** | [CI workflow](https://github.com/jc-morales-dev/Escape-Driver/actions/workflows/ci.yml) | [Open demo](https://escape-driver.vercel.app/) |
 
 ## How I work
 
