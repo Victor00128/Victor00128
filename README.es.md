@@ -36,7 +36,7 @@ Startups y equipos chicos. Abierto a una **tarea paga chica primero**. Disponibl
 
 | Evidencia | Enlace |
 | --- | --- |
-| **NovaClaw** (prototipo Android original v0.1 · un dispositivo) | [Repo](https://github.com/jc-morales-dev/NovaClaw) · [Demo](https://github.com/jc-morales-dev/NovaClaw/blob/main/docs/media/novaclaw-demo.gif) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml) |
+| **NovaClaw** (prototipo Android original v0.1 · un dispositivo) | [Repo](https://github.com/jc-morales-dev/NovaClaw) · [Video HD](https://github.com/jc-morales-dev/jc-morales-dev/raw/main/assets/novaclaw-demo.mp4) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml) |
 | **Chatbot Vortex** (demo live) | [Live](https://chatbot-vortex.vercel.app/) · [Repo](https://github.com/jc-morales-dev/Chatbot-Vortex) · [v1.1.0](https://github.com/jc-morales-dev/Chatbot-Vortex/releases/tag/v1.1.0) |
 | **Portafolio** (live) | [Sitio](https://julio-cesar-portfolio.vercel.app) · [Repo](https://github.com/jc-morales-dev/julio-cesar-portfolio) |
 | **NEXUS** demo (← G0DM0D3 AGPL) | [Live](https://nexus-exec.vercel.app/) · [Repo](https://github.com/jc-morales-dev/NEXUS) · [demo release](https://github.com/jc-morales-dev/NEXUS/releases/tag/v0.1.0-demo) |
@@ -60,19 +60,19 @@ Startups y equipos chicos. Abierto a una **tarea paga chica primero**. Disponibl
 
 <p align="center">
   <a href="https://github.com/jc-morales-dev/NovaClaw">
-    <img width="360" src="https://raw.githubusercontent.com/jc-morales-dev/NovaClaw/main/docs/media/novaclaw-demo.gif" alt="NovaClaw ejecutando un agente de programación enteramente en un teléfono Android" />
+    <img width="240" src="https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/novaclaw-demo.gif" alt="NovaClaw ejecutando un agente de programación enteramente en un teléfono Android" />
   </a>
 </p>
 
 Agente de programación Android creado desde cero, con Linux + Node.js embebidos, BYOK, terminal y herramientas del teléfono. **Prototipo v0.1 probado en un solo OPPO CPH2557** — temprano, instalable por sideload, sin afirmar soporte de producción multidispositivo.
 
-[Código](https://github.com/jc-morales-dev/NovaClaw) · [Demo](https://github.com/jc-morales-dev/NovaClaw/blob/main/docs/media/novaclaw-demo.gif) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml)
+[Código](https://github.com/jc-morales-dev/NovaClaw) · [Video HD](https://github.com/jc-morales-dev/jc-morales-dev/raw/main/assets/novaclaw-demo.mp4) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml)
 
 ### Chatbot Vortex — demo live
 
 <p align="center">
   <a href="https://chatbot-vortex.vercel.app/">
-    <img width="88%" src="https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/chatbot-vortex.png" alt="Vista previa de Chatbot Vortex" />
+    <img width="620" src="https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/chatbot-vortex.png" alt="Vista previa de Chatbot Vortex" />
   </a>
 </p>
 
@@ -84,7 +84,7 @@ UI de chat multiproveedor: offline, BYOK, historial local, exportación, archivo
 
 <p align="center">
   <a href="https://julio-cesar-portfolio.vercel.app">
-    <img width="88%" src="https://raw.githubusercontent.com/jc-morales-dev/julio-cesar-portfolio/main/public/og-image.png" alt="Vista previa del portafolio" />
+    <img width="620" src="https://raw.githubusercontent.com/jc-morales-dev/julio-cesar-portfolio/main/public/og-image.png" alt="Vista previa del portafolio" />
   </a>
 </p>
 
@@ -96,7 +96,7 @@ Write-ups problema → build → decisión → resultado verificable, servicios,
 
 <p align="center">
   <a href="https://nexus-exec.vercel.app/">
-    <img width="76%" src="https://raw.githubusercontent.com/jc-morales-dev/NEXUS/main/assets/agent.png" alt="Vista previa del agente autónomo de NEXUS" />
+    <img width="620" src="https://raw.githubusercontent.com/jc-morales-dev/NEXUS/main/assets/agent.png" alt="Vista previa del agente autónomo de NEXUS" />
   </a>
 </p>
 

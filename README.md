@@ -36,7 +36,7 @@ Startups and small teams. Happy to start with a **small paid task first**. Avail
 
 | Evidence | Link |
 | --- | --- |
-| **NovaClaw** (original Android prototype v0.1 · single-device) | [Repo](https://github.com/jc-morales-dev/NovaClaw) · [Demo](https://github.com/jc-morales-dev/NovaClaw/blob/main/docs/media/novaclaw-demo.gif) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml) |
+| **NovaClaw** (original Android prototype v0.1 · single-device) | [Repo](https://github.com/jc-morales-dev/NovaClaw) · [HD video](https://github.com/jc-morales-dev/jc-morales-dev/raw/main/assets/novaclaw-demo.mp4) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml) |
 | **Chatbot Vortex** (live demo) | [Live](https://chatbot-vortex.vercel.app/) · [Repo](https://github.com/jc-morales-dev/Chatbot-Vortex) · [v1.1.0](https://github.com/jc-morales-dev/Chatbot-Vortex/releases/tag/v1.1.0) |
 | **Portfolio** (live) | [Site](https://julio-cesar-portfolio.vercel.app) · [Repo](https://github.com/jc-morales-dev/julio-cesar-portfolio) |
 | **NEXUS** demo (← G0DM0D3 AGPL) | [Live](https://nexus-exec.vercel.app/) · [Repo](https://github.com/jc-morales-dev/NEXUS) · [demo release](https://github.com/jc-morales-dev/NEXUS/releases/tag/v0.1.0-demo) |
@@ -60,19 +60,19 @@ Startups and small teams. Happy to start with a **small paid task first**. Avail
 
 <p align="center">
   <a href="https://github.com/jc-morales-dev/NovaClaw">
-    <img width="360" src="https://raw.githubusercontent.com/jc-morales-dev/NovaClaw/main/docs/media/novaclaw-demo.gif" alt="NovaClaw running a coding agent entirely on an Android phone" />
+    <img width="240" src="https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/novaclaw-demo.gif" alt="NovaClaw running a coding agent entirely on an Android phone" />
   </a>
 </p>
 
 Built-from-scratch Android coding agent with embedded Linux + Node.js, BYOK, terminal and phone tools. **Prototype v0.1 tested on one OPPO CPH2557** — early, installable by sideload, not a multi-device production claim.
 
-[Code](https://github.com/jc-morales-dev/NovaClaw) · [Demo](https://github.com/jc-morales-dev/NovaClaw/blob/main/docs/media/novaclaw-demo.gif) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml)
+[Code](https://github.com/jc-morales-dev/NovaClaw) · [HD video](https://github.com/jc-morales-dev/jc-morales-dev/raw/main/assets/novaclaw-demo.mp4) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml)
 
 ### Chatbot Vortex — live demo
 
 <p align="center">
   <a href="https://chatbot-vortex.vercel.app/">
-    <img width="88%" src="https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/chatbot-vortex.png" alt="Chatbot Vortex preview" />
+    <img width="620" src="https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/chatbot-vortex.png" alt="Chatbot Vortex preview" />
   </a>
 </p>
 
@@ -84,7 +84,7 @@ Multi-provider AI chat UI: offline mode, BYOK, local history, export, file suppo
 
 <p align="center">
   <a href="https://julio-cesar-portfolio.vercel.app">
-    <img width="88%" src="https://raw.githubusercontent.com/jc-morales-dev/julio-cesar-portfolio/main/public/og-image.png" alt="Portfolio preview" />
+    <img width="620" src="https://raw.githubusercontent.com/jc-morales-dev/julio-cesar-portfolio/main/public/og-image.png" alt="Portfolio preview" />
   </a>
 </p>
 
@@ -96,7 +96,7 @@ Problem → build → decision → verifiable result write-ups, services, CV, co
 
 <p align="center">
   <a href="https://nexus-exec.vercel.app/">
-    <img width="76%" src="https://raw.githubusercontent.com/jc-morales-dev/NEXUS/main/assets/agent.png" alt="NEXUS autonomous agent preview" />
+    <img width="620" src="https://raw.githubusercontent.com/jc-morales-dev/NEXUS/main/assets/agent.png" alt="NEXUS autonomous agent preview" />
   </a>
 </p>
 
