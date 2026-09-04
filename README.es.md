@@ -4,42 +4,43 @@
   <a href="https://github.com/jc-morales-dev/jc-morales-dev/blob/main/README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-22D3EE?style=flat-square&labelColor=0F172A&logo=googletranslate&logoColor=0F172A" alt="Español (actual)" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%2Fearly-mid%20%7C%20React%20%7C%20TypeScript%20%7C%20integraci%C3%B3n%20LLM&descAlignY=60&descSize=18" alt="Julio Cesar Morales — React, TypeScript e integración de APIs LLM" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%2B%20Next.js%20%7C%20Websites%2C%20Dashboards%2C%20OpenAI%20%26%20Bug%20Fixes&descAlignY=60&descSize=18" alt="Julio Cesar Morales — React, TypeScript e integración de APIs LLM" />
 
 <div align="center">
 
 <img
   width="100%"
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1400&color=22D3EE&center=true&vCenter=true&repeat=true&width=980&height=60&lines=Interfaces+claras+para+productos+reales;Herramientas+con+IA+listas+para+demo+y+evoluci%C3%B3n;Demos+con+CI+y+atribuci%C3%B3n+honesta;Freelance+y+colaboraciones"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1400&color=22D3EE&center=true&vCenter=true&repeat=true&width=980&height=60&lines=React+%2B+Next.js+websites+y+dashboards;Integraciones+OpenAI+y+APIs+LLM;Bug+fixes+y+tareas+pagas+chicas+primero;Freelance+y+colaboraciones"
   alt="Texto animado de presentación"
 />
 
 <p>
-  Desarrollador junior / early-mid en React + TypeScript. Construyo UIs enfocadas, integraciones de APIs LLM y demos públicas con CI — con estados claros de carga, error y vacío.
+  React + Next.js para websites, dashboards, integraciones OpenAI y bug fixes. Disponible ~30+ hrs/semana · abierto a una tarea paga chica primero. ES nativo / EN conversacional.
 </p>
 
-<img src="https://img.shields.io/badge/Nivel-Junior%20%2F%20early-mid-22D3EE?style=for-the-badge&labelColor=0F172A&color=22D3EE" alt="Nivel" />
-<img src="https://img.shields.io/badge/Enfoque-React%20%7C%20TypeScript%20%7C%20IA-0EA5E9?style=for-the-badge&labelColor=0F172A&color=0EA5E9" alt="Enfoque: React, TypeScript e IA" />
-<img src="https://img.shields.io/badge/Estado-Disponible%20para%20freelance-10B981?style=for-the-badge&labelColor=0F172A&color=10B981" alt="Estado: disponible para freelance" />
+<img src="https://img.shields.io/badge/Enfoque-React%20%2B%20Next.js%20%7C%20Dashboards%20%7C%20OpenAI-22D3EE?style=for-the-badge&labelColor=0F172A&color=22D3EE" alt="Enfoque" />
+<img src="https://img.shields.io/badge/Disponibilidad-30%2B%20hrs%2Fsemana-0EA5E9?style=for-the-badge&labelColor=0F172A&color=0EA5E9" alt="Disponibilidad" />
+<img src="https://img.shields.io/badge/Estado-Open%20to%20work-10B981?style=for-the-badge&labelColor=0F172A&color=10B981" alt="Estado" />
 
 </div>
 
 ## Sobre mí
 
-Desarrollador junior / early-mid enfocado en React, TypeScript e integraciones LLM prácticas. Publico demos con CI y atribución honesta — sin vender plataformas de agentes “from scratch” ni seniority inflada.
+Desarrollador early-mid en React / TypeScript / Next.js (Montevideo). Ayudo a startups y equipos chicos con websites, dashboards, OpenAI y bug fixes — con estados claros y atribución honesta en demos públicas.
 
-- Frontend orientado al producto
-- Integración de APIs LLM sobre flujos reales (chat, BYOK, archivos, export)
-- Demos de agentes integrando y endureciendo bases open source (p. ej. NEXUS ← G0DM0D3 AGPL)
-- Entregas reproducibles con TypeScript, pruebas, CI, documentación y despliegue
+- Websites y UIs en React + Next.js + Tailwind
+- Dashboards / herramientas internas (forms, filtros, estados de API)
+- Integraciones OpenAI y otras APIs LLM (BYOK, chat, archivos)
+- Bug fixes y estabilización de frontend con CI
+- Demos públicas: Vortex, Zenith IDE, NEXUS (← G0DM0D3 AGPL), NovaClaw v0.1 (1 dispositivo)
 
 ## Servicios
 
-- **Implementación React + TypeScript** — pantallas responsive, formularios, estados de API y refactorización de componentes.
-- **Integración de funciones de IA** — chat, streaming, archivos, historial, exportación y conexión de proveedores en un producto existente.
-- **Dashboards y herramientas internas** — pantallas con datos, filtros, flujos operativos y estados claros para tomar decisiones.
-- **Integración de APIs** — conexión de productos existentes con servicios REST o proveedores de modelos y manejo explícito de fallos.
-- **Estabilización de frontend** — diagnosticar fallos de build o tipos, corregir bugs acotados, añadir pruebas enfocadas y recuperar el CI.
+- **Websites (React + Next.js)** — páginas responsive, landings, refactors de componentes.
+- **Dashboards** — pantallas con datos, filtros, formularios y flujos operativos.
+- **OpenAI / LLM** — chat, streaming, archivos, historial, exportación, wiring de proveedores.
+- **Bug fixes** — issues acotados de React/TS, fallos de build/tipos, recuperar CI.
+- **Tarea paga chica primero** — feliz de empezar con un spike corto pago antes de un trabajo mayor.
 
 ¿Tienes un flujo definido o un problema difícil en React? [Mira mi portafolio](https://julio-cesar-portfolio.vercel.app) o [envíame un correo](mailto:juliocesarmoralesalvarado9@gmail.com) con el comportamiento actual y el resultado esperado.
 
@@ -151,7 +152,7 @@ Desarrollador junior / early-mid enfocado en React, TypeScript e integraciones L
   <img width="92%" src="https://raw.githubusercontent.com/jc-morales-dev/EDITOR-CODE/main/assets/zenith-screenshot.png" alt="Vista previa de Zenith IDE" />
 </a>
 
-<h3>Zenith IDE</h3>
+<h3>Zenith IDE (EDITOR-CODE) — prototipo</h3>
 
 <p>
   IDE con IA, terminal integrada, edición de archivos y vista previa con autorreparación. Un proyecto pensado para productividad y experiencia de desarrollo.

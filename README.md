@@ -4,42 +4,43 @@
   <a href="https://github.com/jc-morales-dev/jc-morales-dev/blob/main/README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-1E293B?style=flat-square&labelColor=1E293B&logo=googletranslate&logoColor=64748B" alt="Cambiar a espanol" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%2Fearly-mid%20%7C%20React%20%7C%20TypeScript%20%7C%20LLM%20integrations&descAlignY=60&descSize=18" alt="Julio Cesar Morales — React, TypeScript and LLM API integration" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%2B%20Next.js%20%7C%20Websites%2C%20Dashboards%2C%20OpenAI%20%26%20Bug%20Fixes&descAlignY=60&descSize=18" alt="Julio Cesar Morales — React, TypeScript and LLM API integration" />
 
 <div align="center">
 
 <img
   width="100%"
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1400&color=22D3EE&center=true&vCenter=true&repeat=true&width=980&height=60&lines=Clean+interfaces+for+real+products;AI+tools+ready+to+demo+and+evolve;Demos+with+CI+and+honest+attribution;Freelance+and+collaborations"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1400&color=22D3EE&center=true&vCenter=true&repeat=true&width=980&height=60&lines=React+%2B+Next.js+websites+%26+dashboards;OpenAI+%26+LLM+API+integrations;Bug+fixes+%26+small+paid+tasks+first;Freelance+and+collaborations"
   alt="Animated intro text"
 />
 
 <p>
-  Junior / early-mid React + TypeScript developer. I build focused UIs, LLM API integrations, and public demos with CI — clear loading, error, and empty states included.
+  React + Next.js for websites, dashboards, OpenAI integrations, and bug fixes. Available ~30+ hrs/week · open to a small paid task first. ES native / EN conversational.
 </p>
 
-<img src="https://img.shields.io/badge/Level-Junior%20%2F%20early-mid-22D3EE?style=for-the-badge&labelColor=0F172A&color=22D3EE" alt="Level" />
-<img src="https://img.shields.io/badge/Focus-React%20%7C%20TypeScript%20%7C%20AI-0EA5E9?style=for-the-badge&labelColor=0F172A&color=0EA5E9" alt="Focus" />
-<img src="https://img.shields.io/badge/Status-Freelance%20Available-10B981?style=for-the-badge&labelColor=0F172A&color=10B981" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-React%20%2B%20Next.js%20%7C%20Dashboards%20%7C%20OpenAI-22D3EE?style=for-the-badge&labelColor=0F172A&color=22D3EE" alt="Focus" />
+<img src="https://img.shields.io/badge/Availability-30%2B%20hrs%2Fweek-0EA5E9?style=for-the-badge&labelColor=0F172A&color=0EA5E9" alt="Availability" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20work-10B981?style=for-the-badge&labelColor=0F172A&color=10B981" alt="Status" />
 
 </div>
 
 ## About me
 
-Junior / early-mid developer focused on React, TypeScript, and practical LLM integrations. I ship demos you can click, with CI and honest attribution — not senior “from-scratch agent platform” claims.
+Early-mid React / TypeScript / Next.js developer in Montevideo. I help startups and small teams ship websites, dashboards, OpenAI features, and bug fixes — with clear loading/error/empty states and honest attribution on public demos.
 
-- Product-oriented frontend
-- LLM API integrations around real user flows (chat, BYOK, files, export)
-- Agent demos built by integrating and hardening existing open-source bases (e.g. NEXUS ← G0DM0D3 AGPL)
-- Reproducible delivery with TypeScript, tests, CI, documentation, and deployment
+- Websites and marketing UIs in React + Next.js + Tailwind
+- Dashboards / internal tools (forms, filters, API states)
+- OpenAI and other LLM API integrations (BYOK, chat, files)
+- Bug fixes and frontend stabilization with CI
+- Public demos: Vortex, Zenith IDE, NEXUS (← G0DM0D3 AGPL), NovaClaw v0.1 (1 device)
 
 ## Services
 
-- **React + TypeScript implementation** — responsive screens, forms, API states, and component refactors.
-- **AI feature integration** — chat, streaming, files, history, export, and provider wiring for an existing product.
-- **Dashboards and internal tools** — data-heavy screens, filters, operational workflows, and clear decision states.
-- **API integration** — connect existing products to REST or model-provider workflows with explicit failure handling.
-- **Frontend stabilization** — diagnose build or type failures, fix scoped bugs, add focused tests, and restore CI.
+- **Websites (React + Next.js)** — responsive pages, landing flows, component refactors.
+- **Dashboards** — data-heavy screens, filters, forms, and operational workflows.
+- **OpenAI / LLM features** — chat, streaming, files, history, export, provider wiring.
+- **Bug fixes** — scoped React/TS issues, build/type failures, restore CI.
+- **Small paid task first** — happy to start with a short paid spike before larger work.
 
 Have a defined flow or a stubborn React issue? [See my portfolio](https://julio-cesar-portfolio.vercel.app) or [send me an email](mailto:juliocesarmoralesalvarado9@gmail.com) with the current behavior and desired outcome.
 
@@ -153,7 +154,7 @@ Have a defined flow or a stubborn React issue? [See my portfolio](https://julio-
   <img width="92%" src="https://raw.githubusercontent.com/jc-morales-dev/EDITOR-CODE/main/assets/zenith-screenshot.png" alt="Zenith IDE preview" />
 </a>
 
-<h3>Zenith IDE</h3>
+<h3>Zenith IDE (EDITOR-CODE) — prototype</h3>
 
 <p>
   AI-powered IDE with an integrated terminal, file editing, and live preview with auto-repair. Built for productivity and developer experience.
