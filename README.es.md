@@ -4,7 +4,7 @@
   <a href="https://github.com/jc-morales-dev/jc-morales-dev/blob/main/README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-22D3EE?style=flat-square&labelColor=0F172A&logo=googletranslate&logoColor=0F172A" alt="Español (actual)" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%2B%20Next.js%20%7C%20Websites%2C%20Dashboards%2C%20OpenAI%20%26%20Bug%20Fixes&descAlignY=60&descSize=18" alt="Julio Cesar Morales — React, TypeScript e integración de APIs LLM" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%2B%20Next.js%20%7C%20Websites%2C%20Dashboards%2C%20OpenAI%20and%20Bug%20Fixes&descAlignY=60&descSize=18" alt="Julio Cesar Morales — React, TypeScript e integración de APIs LLM" />
 
 <div align="center">
 
