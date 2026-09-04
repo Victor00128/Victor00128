@@ -36,11 +36,10 @@ Startups y equipos chicos. Abierto a una **tarea paga chica primero**. Disponibl
 
 | Evidencia | Enlace |
 | --- | --- |
-| **Chatbot Vortex** (demo flagship) | [Live](https://chatbot-vortex.vercel.app/) · [Repo](https://github.com/jc-morales-dev/Chatbot-Vortex) · [v1.1.0](https://github.com/jc-morales-dev/Chatbot-Vortex/releases/tag/v1.1.0) |
+| **NovaClaw** (prototipo Android original v0.1 · un dispositivo) | [Repo](https://github.com/jc-morales-dev/NovaClaw) · [Demo](https://github.com/jc-morales-dev/NovaClaw/blob/main/docs/media/novaclaw-demo.gif) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml) |
+| **Chatbot Vortex** (demo live) | [Live](https://chatbot-vortex.vercel.app/) · [Repo](https://github.com/jc-morales-dev/Chatbot-Vortex) · [v1.1.0](https://github.com/jc-morales-dev/Chatbot-Vortex/releases/tag/v1.1.0) |
+| **Portafolio** (live) | [Sitio](https://julio-cesar-portfolio.vercel.app) · [Repo](https://github.com/jc-morales-dev/julio-cesar-portfolio) |
 | **NEXUS** demo (← G0DM0D3 AGPL) | [Live](https://nexus-exec.vercel.app/) · [Repo](https://github.com/jc-morales-dev/NEXUS) · [demo release](https://github.com/jc-morales-dev/NEXUS/releases/tag/v0.1.0-demo) |
-| **Zenith IDE** (código / prototipo) | [Repo](https://github.com/jc-morales-dev/EDITOR-CODE) |
-
-También: prototipo Android v0.1 (un solo dispositivo) — [NovaClaw](https://github.com/jc-morales-dev/NovaClaw).
 
 ## Stack
 
@@ -57,11 +56,23 @@ También: prototipo Android v0.1 (un solo dispositivo) — [NovaClaw](https://gi
 
 ## Proyectos destacados
 
-### Chatbot Vortex — flagship
+### NovaClaw — prototipo original en el dispositivo
+
+<p align="center">
+  <a href="https://github.com/jc-morales-dev/NovaClaw">
+    <img width="360" src="https://raw.githubusercontent.com/jc-morales-dev/NovaClaw/main/docs/media/novaclaw-demo.gif" alt="NovaClaw ejecutando un agente de programación enteramente en un teléfono Android" />
+  </a>
+</p>
+
+Agente de programación Android creado desde cero, con Linux + Node.js embebidos, BYOK, terminal y herramientas del teléfono. **Prototipo v0.1 probado en un solo OPPO CPH2557** — temprano, instalable por sideload, sin afirmar soporte de producción multidispositivo.
+
+[Código](https://github.com/jc-morales-dev/NovaClaw) · [Demo](https://github.com/jc-morales-dev/NovaClaw/blob/main/docs/media/novaclaw-demo.gif) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml)
+
+### Chatbot Vortex — demo live
 
 <p align="center">
   <a href="https://chatbot-vortex.vercel.app/">
-    <img width="92%" src="https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/chatbot-vortex.png" alt="Vista previa de Chatbot Vortex" />
+    <img width="88%" src="https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/chatbot-vortex.png" alt="Vista previa de Chatbot Vortex" />
   </a>
 </p>
 
@@ -69,35 +80,11 @@ UI de chat multiproveedor: offline, BYOK, historial local, exportación, archivo
 
 [Demo](https://chatbot-vortex.vercel.app/) · [Código](https://github.com/jc-morales-dev/Chatbot-Vortex) · [Release v1.1.0](https://github.com/jc-morales-dev/Chatbot-Vortex/releases/tag/v1.1.0)
 
-### NEXUS — demo (derivado de G0DM0D3)
-
-<p align="center">
-  <a href="https://nexus-exec.vercel.app/">
-    <img width="92%" src="https://raw.githubusercontent.com/jc-morales-dev/NEXUS/main/assets/agent.png" alt="Vista previa del agente autónomo de NEXUS" />
-  </a>
-</p>
-
-Workspace multi-modelo con agente en sandbox. **Derivado de [G0DM0D3](https://github.com/elder-plinius/G0DM0D3) (AGPL)** — trabajo local: orquestación E2B, skills/timeline UI, telemetry/CORS/BYOK, demo pública.
-
-[Demo](https://nexus-exec.vercel.app/) · [Código](https://github.com/jc-morales-dev/NEXUS) · [demo release](https://github.com/jc-morales-dev/NEXUS/releases/tag/v0.1.0-demo)
-
-### Zenith IDE (EDITOR-CODE) — prototipo
-
-<p align="center">
-  <a href="https://github.com/jc-morales-dev/EDITOR-CODE">
-    <img width="92%" src="https://raw.githubusercontent.com/jc-morales-dev/EDITOR-CODE/main/assets/zenith-screenshot.png" alt="Vista previa de Zenith IDE" />
-  </a>
-</p>
-
-Prototipo de IDE de escritorio Electron + React: Monaco, terminal real, ediciones con Gemini revisables.
-
-[Código](https://github.com/jc-morales-dev/EDITOR-CODE)
-
 ### Portafolio
 
 <p align="center">
   <a href="https://julio-cesar-portfolio.vercel.app">
-    <img width="92%" src="https://raw.githubusercontent.com/jc-morales-dev/julio-cesar-portfolio/main/public/og-image.png" alt="Vista previa del portafolio" />
+    <img width="88%" src="https://raw.githubusercontent.com/jc-morales-dev/julio-cesar-portfolio/main/public/og-image.png" alt="Vista previa del portafolio" />
   </a>
 </p>
 
@@ -105,14 +92,26 @@ Write-ups problema → build → decisión → resultado verificable, servicios,
 
 [Sitio](https://julio-cesar-portfolio.vercel.app) · [Código](https://github.com/jc-morales-dev/julio-cesar-portfolio)
 
+### NEXUS — demo derivada
+
+<p align="center">
+  <a href="https://nexus-exec.vercel.app/">
+    <img width="76%" src="https://raw.githubusercontent.com/jc-morales-dev/NEXUS/main/assets/agent.png" alt="Vista previa del agente autónomo de NEXUS" />
+  </a>
+</p>
+
+Workspace multi-modelo con agente en sandbox. **Derivado de [G0DM0D3](https://github.com/elder-plinius/G0DM0D3) (AGPL)** — trabajo local: orquestación E2B, skills/timeline UI, telemetry/CORS/BYOK, demo pública.
+
+[Demo](https://nexus-exec.vercel.app/) · [Código](https://github.com/jc-morales-dev/NEXUS) · [demo release](https://github.com/jc-morales-dev/NEXUS/releases/tag/v0.1.0-demo)
+
 ## Demos / CI
 
 | Proyecto | Estado | Checks | Live |
 | --- | --- | --- | --- |
+| NovaClaw | prototipo v0.1 · un dispositivo | [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml) | [repo](https://github.com/jc-morales-dev/NovaClaw) |
 | Chatbot Vortex | demo | [CI](https://github.com/jc-morales-dev/Chatbot-Vortex/actions/workflows/ci.yml) | [demo](https://chatbot-vortex.vercel.app/) |
-| NEXUS | demo | [CI](https://github.com/jc-morales-dev/NEXUS/actions/workflows/ci.yml) | [demo](https://nexus-exec.vercel.app/) |
-| Zenith IDE | prototype | [CI](https://github.com/jc-morales-dev/EDITOR-CODE/actions/workflows/ci.yml) | desktop |
 | Portafolio | active | [CI](https://github.com/jc-morales-dev/julio-cesar-portfolio/actions/workflows/ci.yml) | [sitio](https://julio-cesar-portfolio.vercel.app) |
+| NEXUS | demo derivada | [CI](https://github.com/jc-morales-dev/NEXUS/actions/workflows/ci.yml) | [demo](https://nexus-exec.vercel.app/) |
 
 ## Contacto
 
