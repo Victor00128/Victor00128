@@ -36,7 +36,7 @@ Startups y equipos chicos. Abierto a una **tarea paga chica primero**. Disponibl
 
 | Evidencia | Enlace |
 | --- | --- |
-| **NovaClaw** (prototipo Android original v0.1 · un dispositivo) | [Repo](https://github.com/jc-morales-dev/NovaClaw) · [Video HD](https://github.com/jc-morales-dev/jc-morales-dev/raw/main/assets/novaclaw-demo.mp4) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml) |
+| **NovaClaw** (prototipo Android original v0.1 · un dispositivo) | [Repo](https://github.com/jc-morales-dev/NovaClaw) · [Vídeo HD (MP4)](https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/novaclaw-demo.mp4) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml) |
 | **Chatbot Vortex** (demo live) | [Live](https://chatbot-vortex.vercel.app/) · [Repo](https://github.com/jc-morales-dev/Chatbot-Vortex) · [v1.1.0](https://github.com/jc-morales-dev/Chatbot-Vortex/releases/tag/v1.1.0) |
 | **Portafolio** (live) | [Sitio](https://julio-cesar-portfolio.vercel.app) · [Repo](https://github.com/jc-morales-dev/julio-cesar-portfolio) |
 | **NEXUS** demo (← G0DM0D3 AGPL) | [Live](https://nexus-exec.vercel.app/) · [Repo](https://github.com/jc-morales-dev/NEXUS) · [demo release](https://github.com/jc-morales-dev/NEXUS/releases/tag/v0.1.0-demo) |
@@ -66,7 +66,7 @@ Startups y equipos chicos. Abierto a una **tarea paga chica primero**. Disponibl
 
 Agente de programación Android creado desde cero, con Linux + Node.js embebidos, BYOK, terminal y herramientas del teléfono. **Prototipo v0.1 probado en un solo OPPO CPH2557** — temprano, instalable por sideload, sin afirmar soporte de producción multidispositivo.
 
-[Código](https://github.com/jc-morales-dev/NovaClaw) · [Video HD](https://github.com/jc-morales-dev/jc-morales-dev/raw/main/assets/novaclaw-demo.mp4) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml)
+[Código](https://github.com/jc-morales-dev/NovaClaw) · [Vídeo HD (MP4)](https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/novaclaw-demo.mp4) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml)
 
 ### Chatbot Vortex — demo live
 
