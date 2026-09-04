@@ -59,11 +59,23 @@ Also: Android prototype v0.1 (single-device) — [NovaClaw](https://github.com/j
 
 ### Chatbot Vortex — flagship
 
+<p align="center">
+  <a href="https://chatbot-vortex.vercel.app/">
+    <img width="92%" src="https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/chatbot-vortex.png" alt="Chatbot Vortex preview" />
+  </a>
+</p>
+
 Multi-provider AI chat UI: offline mode, BYOK, local history, export, file support. CI + E2E.
 
 [Demo](https://chatbot-vortex.vercel.app/) · [Code](https://github.com/jc-morales-dev/Chatbot-Vortex) · [Release v1.1.0](https://github.com/jc-morales-dev/Chatbot-Vortex/releases/tag/v1.1.0)
 
 ### NEXUS — demo (derived from G0DM0D3)
+
+<p align="center">
+  <a href="https://nexus-exec.vercel.app/">
+    <img width="92%" src="https://raw.githubusercontent.com/jc-morales-dev/NEXUS/main/assets/agent.png" alt="NEXUS autonomous agent preview" />
+  </a>
+</p>
 
 Multi-model workspace with sandboxed agent. **Derived from [G0DM0D3](https://github.com/elder-plinius/G0DM0D3) (AGPL)** — local work: E2B orchestration, skills/UI timeline, telemetry/CORS/BYOK, public demo.
 
@@ -71,11 +83,23 @@ Multi-model workspace with sandboxed agent. **Derived from [G0DM0D3](https://git
 
 ### Zenith IDE (EDITOR-CODE) — prototype
 
+<p align="center">
+  <a href="https://github.com/jc-morales-dev/EDITOR-CODE">
+    <img width="92%" src="https://raw.githubusercontent.com/jc-morales-dev/EDITOR-CODE/main/assets/zenith-screenshot.png" alt="Zenith IDE preview" />
+  </a>
+</p>
+
 Electron + React desktop IDE prototype: Monaco, real terminal, Gemini-assisted reviewable edits.
 
 [Code](https://github.com/jc-morales-dev/EDITOR-CODE)
 
 ### Portfolio
+
+<p align="center">
+  <a href="https://julio-cesar-portfolio.vercel.app">
+    <img width="92%" src="https://raw.githubusercontent.com/jc-morales-dev/julio-cesar-portfolio/main/public/og-image.png" alt="Portfolio preview" />
+  </a>
+</p>
 
 Problem → build → decision → verifiable result write-ups, services, CV, contact.
 
