@@ -36,7 +36,7 @@ Startups y equipos chicos. Abierto a una **tarea paga chica primero**. Disponibl
 
 | Evidencia | Enlace |
 | --- | --- |
-| **NovaClaw** (prototipo Android original v0.1 · un dispositivo) | [Repo](https://github.com/jc-morales-dev/NovaClaw) · [GIF](https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/novaclaw-demo.gif) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml) |
+| **NovaClaw** (prototipo Android original v0.1 · un dispositivo) | [Repo](https://github.com/jc-morales-dev/NovaClaw) · [Demo completa (video)](https://github.com/user-attachments/assets/29875163-a0bf-43e2-a328-a04d1b033507) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml) |
 | **Chatbot Vortex** (demo live) | [Live](https://chatbot-vortex.vercel.app/) · [Repo](https://github.com/jc-morales-dev/Chatbot-Vortex) · [v1.1.0](https://github.com/jc-morales-dev/Chatbot-Vortex/releases/tag/v1.1.0) |
 | **Portafolio** (live) | [Sitio](https://julio-cesar-portfolio.vercel.app) · [Repo](https://github.com/jc-morales-dev/julio-cesar-portfolio) |
 | **NEXUS** demo (← G0DM0D3 AGPL) | [Live](https://nexus-exec.vercel.app/) · [Repo](https://github.com/jc-morales-dev/NEXUS) · [demo release](https://github.com/jc-morales-dev/NEXUS/releases/tag/v0.1.0-demo) |
@@ -60,13 +60,13 @@ Startups y equipos chicos. Abierto a una **tarea paga chica primero**. Disponibl
 
 <p align="center">
   <a href="https://github.com/jc-morales-dev/NovaClaw">
-    <video width="240" src="https://github.com/user-attachments/assets/29875163-a0bf-43e2-a328-a04d1b033507" controls muted></video>
+    <img width="240" src="https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/novaclaw-teaser.gif" alt="NovaClaw: un agente de programación corriendo enteramente en un teléfono Android" />
   </a>
 </p>
 
 Agente de programación Android creado desde cero, con Linux + Node.js embebidos, BYOK, terminal y herramientas del teléfono. **Prototipo v0.1 probado en un solo OPPO CPH2557** — temprano, instalable por sideload, sin afirmar soporte de producción multidispositivo.
 
-[Código](https://github.com/jc-morales-dev/NovaClaw) · [GIF](https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/novaclaw-demo.gif) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml)
+[Código](https://github.com/jc-morales-dev/NovaClaw) · [Demo completa (video)](https://github.com/user-attachments/assets/29875163-a0bf-43e2-a328-a04d1b033507) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml)
 
 ### Chatbot Vortex — demo live
 

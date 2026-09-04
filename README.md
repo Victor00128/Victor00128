@@ -36,7 +36,7 @@ Startups and small teams. Happy to start with a **small paid task first**. Avail
 
 | Evidence | Link |
 | --- | --- |
-| **NovaClaw** (original Android prototype v0.1 · single-device) | [Repo](https://github.com/jc-morales-dev/NovaClaw) · [GIF](https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/novaclaw-demo.gif) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml) |
+| **NovaClaw** (original Android prototype v0.1 · single-device) | [Repo](https://github.com/jc-morales-dev/NovaClaw) · [Full demo (video)](https://github.com/user-attachments/assets/29875163-a0bf-43e2-a328-a04d1b033507) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml) |
 | **Chatbot Vortex** (live demo) | [Live](https://chatbot-vortex.vercel.app/) · [Repo](https://github.com/jc-morales-dev/Chatbot-Vortex) · [v1.1.0](https://github.com/jc-morales-dev/Chatbot-Vortex/releases/tag/v1.1.0) |
 | **Portfolio** (live) | [Site](https://julio-cesar-portfolio.vercel.app) · [Repo](https://github.com/jc-morales-dev/julio-cesar-portfolio) |
 | **NEXUS** demo (← G0DM0D3 AGPL) | [Live](https://nexus-exec.vercel.app/) · [Repo](https://github.com/jc-morales-dev/NEXUS) · [demo release](https://github.com/jc-morales-dev/NEXUS/releases/tag/v0.1.0-demo) |
@@ -60,13 +60,13 @@ Startups and small teams. Happy to start with a **small paid task first**. Avail
 
 <p align="center">
   <a href="https://github.com/jc-morales-dev/NovaClaw">
-    <video width="240" src="https://github.com/user-attachments/assets/29875163-a0bf-43e2-a328-a04d1b033507" controls muted></video>
+    <img width="240" src="https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/novaclaw-teaser.gif" alt="NovaClaw: a coding agent running entirely on an Android phone" />
   </a>
 </p>
 
 Built-from-scratch Android coding agent with embedded Linux + Node.js, BYOK, terminal and phone tools. **Prototype v0.1 tested on one OPPO CPH2557** — early, installable by sideload, not a multi-device production claim.
 
-[Code](https://github.com/jc-morales-dev/NovaClaw) · [GIF](https://raw.githubusercontent.com/jc-morales-dev/jc-morales-dev/main/assets/novaclaw-demo.gif) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml)
+[Code](https://github.com/jc-morales-dev/NovaClaw) · [Full demo (video)](https://github.com/user-attachments/assets/29875163-a0bf-43e2-a328-a04d1b033507) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml)
 
 ### Chatbot Vortex — live demo
 
