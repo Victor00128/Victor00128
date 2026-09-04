@@ -4,21 +4,21 @@
   <a href="https://github.com/jc-morales-dev/jc-morales-dev/blob/main/README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-1E293B?style=flat-square&labelColor=1E293B&logo=googletranslate&logoColor=64748B" alt="Cambiar a espanol" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20TypeScript%20%7C%20LLM%20API%20Integration&descAlignY=60&descSize=18" alt="Julio Cesar Morales — React, TypeScript and LLM API integration" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:22D3EE&height=180&section=header&text=Julio%20C%C3%A9sar%20Morales&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%2Fearly-mid%20%7C%20React%20%7C%20TypeScript%20%7C%20LLM%20integrations&descAlignY=60&descSize=18" alt="Julio Cesar Morales — React, TypeScript and LLM API integration" />
 
 <div align="center">
 
 <img
   width="100%"
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1400&color=22D3EE&center=true&vCenter=true&repeat=true&width=980&height=60&lines=Clean+interfaces+for+real+products;AI+tools+ready+to+demo+and+evolve;Autonomous+agents+that+run+real+tasks;Freelance+and+collaborations"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1400&color=22D3EE&center=true&vCenter=true&repeat=true&width=980&height=60&lines=Clean+interfaces+for+real+products;AI+tools+ready+to+demo+and+evolve;Demos+with+CI+and+honest+attribution;Freelance+and+collaborations"
   alt="Animated intro text"
 />
 
 <p>
-  I help teams build and improve React + TypeScript products: focused frontends, reliable API integrations, and practical AI features with clear loading, error, and empty states.
+  Junior / early-mid React + TypeScript developer. I build focused UIs, LLM API integrations, and public demos with CI — clear loading, error, and empty states included.
 </p>
 
-<img src="https://img.shields.io/badge/Role-Product%20Engineer-22D3EE?style=for-the-badge&labelColor=0F172A&color=22D3EE" alt="Role" />
+<img src="https://img.shields.io/badge/Level-Junior%20%2F%20early-mid-22D3EE?style=for-the-badge&labelColor=0F172A&color=22D3EE" alt="Level" />
 <img src="https://img.shields.io/badge/Focus-React%20%7C%20TypeScript%20%7C%20AI-0EA5E9?style=for-the-badge&labelColor=0F172A&color=0EA5E9" alt="Focus" />
 <img src="https://img.shields.io/badge/Status-Freelance%20Available-10B981?style=for-the-badge&labelColor=0F172A&color=10B981" alt="Status" />
 
@@ -26,11 +26,11 @@
 
 ## About me
 
-Product-focused developer. I enjoy solving problems with clean interfaces, fast flows, and a technical foundation built for real iteration, not just a pretty demo.
+Junior / early-mid developer focused on React, TypeScript, and practical LLM integrations. I ship demos you can click, with CI and honest attribution — not senior “from-scratch agent platform” claims.
 
 - Product-oriented frontend
-- LLM API integrations designed around real user flows
-- Autonomous agent prototypes that plan and run code in an isolated sandbox
+- LLM API integrations around real user flows (chat, BYOK, files, export)
+- Agent demos built by integrating and hardening existing open-source bases (e.g. NEXUS ← G0DM0D3 AGPL)
 - Reproducible delivery with TypeScript, tests, CI, documentation, and deployment
 
 ## Services
@@ -88,7 +88,7 @@ Have a defined flow or a stubborn React issue? [See my portfolio](https://julio-
 <h3>NEXUS</h3>
 
 <p>
-  Multi-model AI workspace with an autonomous agent. Chat with any frontier model, upload files, and let NEXUS <b>do the work</b>: it plans, runs code in a real cloud sandbox, builds files, and hands them back. You just talk to it normally; it reads the task, sizes up its complexity, and decides which tools to use.
+  Multi-model workspace with a sandboxed agent demo. <b>Derived from G0DM0D3 (AGPL)</b> — my work is E2B orchestration, skills/UI timeline, telemetry/CORS/BYOK hardening, and the public demo — not a from-scratch agent core.
 </p>
 
 <a href="https://github.com/jc-morales-dev/NEXUS">
@@ -112,12 +112,9 @@ Have a defined flow or a stubborn React issue? [See my portfolio](https://julio-
 <h3>NovaClaw &nbsp;<img src="https://img.shields.io/badge/NEW-22D3EE?style=flat-square&labelColor=0F172A" alt="New" /></h3>
 
 <p>
-  A coding agent that runs <b>entirely on an Android phone</b>. The APK ships an
-  embedded Linux (Termux bootstrap) and Node.js, and runs the whole agent inside
-  it: native function-calling, surgical file edits, a real PTY terminal, and phone
-  capabilities as tools. No root, no server — the only thing that leaves the
-  device is the model API call. That second screenshot is <code>uname -a</code>
-  on the phone, printing a real <code>aarch64 GNU/Linux</code> kernel.
+  <b>v0.1 early prototype</b> — tested by <b>1 person on 1 device</b> (OPPO CPH2557).
+  On-device Android coding agent with embedded Linux + Node.js, PTY terminal, and
+  phone tools. No root; BYOK. Not a multi-device production claim yet.
 </p>
 
 <a href="https://github.com/jc-morales-dev/NovaClaw">
@@ -176,7 +173,7 @@ GitHub already shows my contribution history below this README. These links poin
 | --- | --- | --- |
 | **Portfolio** | [CI workflow](https://github.com/jc-morales-dev/julio-cesar-portfolio/actions/workflows/ci.yml) | [Open site](https://julio-cesar-portfolio.vercel.app) |
 | **NEXUS** | [CI workflow](https://github.com/jc-morales-dev/NEXUS/actions/workflows/ci.yml) | [Open demo](https://nexus-exec.vercel.app/) |
-| **NovaClaw** | 101 tests + typecheck, [see the repo](https://github.com/jc-morales-dev/NovaClaw) | [Download the signed APK](https://github.com/jc-morales-dev/NovaClaw/releases/latest) |
+| **NovaClaw** | Tests + typecheck in repo (v0.1 / 1 device), [see the repo](https://github.com/jc-morales-dev/NovaClaw) | [Download the signed APK](https://github.com/jc-morales-dev/NovaClaw/releases/latest) |
 | **Chatbot Vortex** | [CI workflow](https://github.com/jc-morales-dev/Chatbot-Vortex/actions/workflows/ci.yml) | [Open demo](https://chatbot-vortex.vercel.app/) |
 | **Zenith IDE** | [CI workflow](https://github.com/jc-morales-dev/EDITOR-CODE/actions/workflows/ci.yml) | Desktop prototype; source and tests are public |
 | **Escape Driver** | [CI workflow](https://github.com/jc-morales-dev/Escape-Driver/actions/workflows/ci.yml) | [Open demo](https://escape-driver.vercel.app/) |
