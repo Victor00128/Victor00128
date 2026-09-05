@@ -10,15 +10,15 @@
 
 <img
   width="100%"
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3200&amp;pause=1400&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=980&amp;height=60&amp;lines=React+%2B+Next.js+websites+and+dashboards;OpenAI+and+LLM+API+integrations;AI-powered+products+and+developer+tools;Freelance+and+collaborations"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3200&amp;pause=1400&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=980&amp;height=60&amp;lines=React+%2B+Next.js+websites+and+dashboards;OpenAI+and+LLM+API+integrations;Freelance+and+collaborations"
   alt="Animated intro text"
 />
 
 <p>
-  <b>React / TypeScript developer focused on AI-powered products, dashboards and developer tools.</b>
+  <b>React / TypeScript developer focused on AI demos, dashboards and developer tools.</b>
 </p>
 
-<img src="https://img.shields.io/badge/Focus-AI%20products%20%7C%20Dashboards%20%7C%20Dev%20tools-22D3EE?style=for-the-badge&labelColor=0F172A&color=22D3EE" alt="Focus" />
+<img src="https://img.shields.io/badge/Focus-AI%20DEMOS%20%7C%20Dashboards%20%7C%20Dev%20tools-22D3EE?style=for-the-badge&labelColor=0F172A&color=22D3EE" alt="Focus" />
 <img src="https://img.shields.io/badge/Availability-30%2B%20hrs%2Fweek-0EA5E9?style=for-the-badge&labelColor=0F172A&color=0EA5E9" alt="Availability" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20work-10B981?style=for-the-badge&labelColor=0F172A&color=10B981" alt="Status" />
 
