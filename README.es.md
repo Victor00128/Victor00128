@@ -10,15 +10,15 @@
 
 <img
   width="100%"
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3200&amp;pause=1400&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=980&amp;height=60&amp;lines=React+%2B+Next.js+websites+y+dashboards;Integraciones+OpenAI+y+APIs+LLM;Productos+con+IA+y+herramientas+dev;Freelance+y+colaboraciones"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3200&amp;pause=1400&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=980&amp;height=60&amp;lines=React+%2B+Next.js+websites+y+dashboards;Integraciones+OpenAI+y+APIs+LLM;Freelance+y+colaboraciones"
   alt="Texto animado de presentación"
 />
 
 <p>
-  <b>Desarrollador React / TypeScript enfocado en productos con IA, dashboards y herramientas para developers.</b>
+  <b>Desarrollador React / TypeScript enfocado en demos con IA, dashboards y herramientas para developers.</b>
 </p>
 
-<img src="https://img.shields.io/badge/Enfoque-Productos%20IA%20%7C%20Dashboards%20%7C%20Dev%20tools-22D3EE?style=for-the-badge&labelColor=0F172A&color=22D3EE" alt="Enfoque" />
+<img src="https://img.shields.io/badge/Enfoque-Demos%20IA%20%7C%20Dashboards%20%7C%20Dev%20tools-22D3EE?style=for-the-badge&labelColor=0F172A&color=22D3EE" alt="Enfoque" />
 <img src="https://img.shields.io/badge/Disponibilidad-30%2B%20hrs%2Fsemana-0EA5E9?style=for-the-badge&labelColor=0F172A&color=0EA5E9" alt="Disponibilidad" />
 <img src="https://img.shields.io/badge/Estado-Open%20to%20work-10B981?style=for-the-badge&labelColor=0F172A&color=10B981" alt="Estado" />
 
